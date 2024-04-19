@@ -52,7 +52,7 @@ void finish() {
 
 void handle_subprocess_finish(pid_t finished) {
     std::ostream &cout = *cout_ptr;
-    cout << header << "process " << finished << "terminated\n";
+    cout << header << "process " << finished << " terminated\n";
     registered.erase(finished);
     if (registered.empty()) {
         cout << header << "all processes have finished, unlinking shared memory\n";

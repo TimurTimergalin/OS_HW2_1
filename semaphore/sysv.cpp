@@ -44,7 +44,10 @@ namespace sem {
         }
 
         void unlink() override {
-            semctl(sem, -1, IPC_RMID);
+            int res = semctl(sem, -1, IPC_RMID);
+            if (res < 0) {
+                throw std::runtime_error("Unable to unlink sem");
+            }
         }
     };
 

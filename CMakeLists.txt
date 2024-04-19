@@ -98,3 +98,60 @@ add_executable(8_resources
         resources.cpp
         name_generator/NameGenerator.cpp
 )
+
+add_executable(9_master
+        semaphore/posix_named.cpp
+        pipe/posix_mq_based.cpp
+        master.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(9_producer
+        semaphore/posix_named.cpp
+        pipe/posix_mq_based.cpp
+        producer.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(9_smokers
+        semaphore/posix_named.cpp
+        pipe/posix_mq_based.cpp
+        smokers.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(9_resources
+        semaphore/posix_named.cpp
+        pipe/posix_mq_based.cpp
+        resources.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(10_master
+        semaphore/sysv.cpp
+        pipe/sysv_mq_based.cpp
+        master.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(10_producer
+        semaphore/sysv.cpp
+        pipe/sysv_mq_based.cpp
+        producer.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(10_smokers
+        semaphore/sysv.cpp
+        pipe/sysv_mq_based.cpp
+        smokers.cpp
+        name_generator/NameGenerator.cpp
+)
+
+add_executable(10_resources
+        semaphore/sysv.cpp
+        pipe/sysv_mq_based.cpp
+        resources.cpp
+        name_generator/NameGenerator.cpp
+)
+

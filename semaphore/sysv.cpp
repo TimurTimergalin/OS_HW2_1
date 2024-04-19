@@ -20,8 +20,8 @@ namespace sem {
         int sem;
     public:
         SystemV(key_t key, int init, bool new_) {
-            if ((sem = semget(key, 1, IPC_CREAT | 0666)) < 0) {
-                throw std::runtime_error("Unable to create sem");
+            if ((sem = semget(key, 1, (new_ ? IPC_CREAT | IPC_EXCL : 0) | 0666)) < 0) {
+                throw std::runtime_error("Unable to open sem");
             }
 
             if (new_) {

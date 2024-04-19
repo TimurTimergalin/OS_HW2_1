@@ -14,9 +14,9 @@ namespace pipes {
         std::string name;
         mqd_t des;
     public:
-        explicit PosixMqBased(const std::string &name) : name(name) {
+        explicit PosixMqBased(const std::string &name, bool new_) : name(name) {
             mq_attr attr{.mq_maxmsg = 5, .mq_msgsize = sizeof(MT)};
-            des = mq_open(name.c_str(), O_RDWR | O_CREAT, 0666, &attr);
+            des = mq_open(name.c_str(), O_RDWR | (new_ ? O_CREAT | O_EXCL : 0), 0666, &attr);
             if (des == -1) {
                 throw std::runtime_error("Unable to open mq");
             }
@@ -61,8 +61,8 @@ namespace pipes {
     };
 
     template<class MT>
-    Pipe<MT> get(const std::string& name, bool) {
-        return std::make_unique<PosixMqBased<MT>>(join('/', name));
+    Pipe<MT> get(const std::string& name, bool new_) {
+        return std::make_unique<PosixMqBased<MT>>(join('/', name), new_);
     }
 
     template class Base<int>;

@@ -12,8 +12,8 @@ namespace sem {
         sem_t *inner;
         bool closed;
     public:
-        PosixNamed(const std::string& name, int init) : name(name), closed(false) {
-            inner = sem_open(name.c_str(), O_CREAT, 0666, init);
+        PosixNamed(const std::string& name, int init, bool new_) : name(name), closed(false) {
+            inner = sem_open(name.c_str(), (new_ ? O_CREAT | O_EXCL : 0), 0666, init);
             if (inner == SEM_FAILED) {
                 throw std::runtime_error("Unable to open sem");
             }
@@ -54,7 +54,7 @@ namespace sem {
         }
     };
 
-    Semaphore get(const std::string& name, int init, bool) {
-        return std::make_unique<PosixNamed>(name, init);
+    Semaphore get(const std::string& name, int init, bool new_) {
+        return std::make_unique<PosixNamed>(name, init, new_);
     }
 }

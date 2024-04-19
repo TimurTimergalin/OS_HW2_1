@@ -22,8 +22,8 @@ namespace pipes {
             }
         };
     public:
-        explicit SystemVMqBased(key_t key) {
-            des = msgget(key, IPC_CREAT | 0666);
+        explicit SystemVMqBased(key_t key, bool new_) {
+            des = msgget(key, (new_ ? IPC_CREAT | IPC_EXCL : 0) | 0666);
             if (des < 0) {
                 throw std::runtime_error("Unable to open mq");
             }
@@ -59,10 +59,10 @@ namespace pipes {
     };
 
     template<class MT>
-    Pipe<MT> get(const std::string& name, bool) {
+    Pipe<MT> get(const std::string& name, bool new_) {
         int val = static_cast<int>(std::hash<std::string>{}(name) % std::numeric_limits<int>::max());
         key_t key = ftok(system_v_keyfile.c_str(), val);
-        return std::make_unique<SystemVMqBased<MT>>(key);
+        return std::make_unique<SystemVMqBased<MT>>(key, new_);
     }
 
     template class Base<int>;

@@ -1,0 +1,133 @@
+1713606558 Resource process: initialization complete
+1713606558 Resource process: waiting for request
+1713606558 Resource process: smoker with resource 1 requested resources
+1713606558 Resource process: waiting for request
+1713606558 Resource process: smoker with resource 0 requested resources
+1713606558 Resource process: waiting for request
+1713606558 Resource process: smoker with resource 2 requested resources
+1713606558 Resource process: waiting for request
+1713606559 Resource process: producer process is about to deliver new resources
+1713606559 Resource process: new resources received
+1713606559 Resource process: smoker with resource 2 is being served
+1713606559 Resource process: waiting for request
+1713606560 Resource process: producer process is about to deliver new resources
+1713606560 Resource process: new resources received
+1713606560 Resource process: waiting for request
+1713606562 Resource process: producer process is about to deliver new resources
+1713606562 Resource process: new resources received
+1713606562 Resource process: smoker with resource 1 is being served
+1713606562 Resource process: waiting for request
+1713606563 Resource process: producer process is about to deliver new resources
+1713606563 Resource process: new resources received
+1713606563 Resource process: smoker with resource 0 is being served
+1713606563 Resource process: waiting for request
+1713606564 Resource process: smoker with resource 2 requested resources
+1713606564 Resource process: waiting for request
+1713606564 Resource process: producer process is about to deliver new resources
+1713606564 Resource process: new resources received
+1713606564 Resource process: waiting for request
+1713606565 Resource process: smoker with resource 1 requested resources
+1713606565 Resource process: waiting for request
+1713606565 Resource process: producer process is about to deliver new resources
+1713606565 Resource process: new resources received
+1713606565 Resource process: waiting for request
+1713606566 Resource process: producer process is about to deliver new resources
+1713606566 Resource process: new resources received
+1713606566 Resource process: smoker with resource 2 is being served
+1713606566 Resource process: waiting for request
+1713606567 Resource process: smoker with resource 0 requested resources
+1713606567 Resource process: smoker with resource 0 is being served
+1713606567 Resource process: waiting for request
+1713606568 Resource process: producer process is about to deliver new resources
+1713606568 Resource process: new resources received
+1713606568 Resource process: waiting for request
+1713606569 Resource process: producer process is about to deliver new resources
+1713606569 Resource process: new resources received
+1713606569 Resource process: smoker with resource 1 is being served
+1713606569 Resource process: waiting for request
+1713606570 Resource process: producer process is about to deliver new resources
+1713606570 Resource process: new resources received
+1713606570 Resource process: waiting for request
+1713606571 Resource process: smoker with resource 2 requested resources
+1713606571 Resource process: waiting for request
+1713606571 Resource process: smoker with resource 0 requested resources
+1713606571 Resource process: waiting for request
+1713606571 Resource process: producer process is about to deliver new resources
+1713606571 Resource process: new resources received
+1713606571 Resource process: smoker with resource 2 is being served
+1713606571 Resource process: waiting for request
+1713606573 Resource process: smoker with resource 1 requested resources
+1713606573 Resource process: smoker with resource 1 is being served
+1713606573 Resource process: waiting for request
+1713606573 Resource process: producer process is about to deliver new resources
+1713606573 Resource process: new resources received
+1713606573 Resource process: waiting for request
+1713606574 Resource process: producer process is about to deliver new resources
+1713606574 Resource process: new resources received
+1713606574 Resource process: waiting for request
+1713606575 Resource process: producer process is about to deliver new resources
+1713606575 Resource process: new resources received
+1713606575 Resource process: smoker with resource 0 is being served
+1713606575 Resource process: waiting for request
+1713606576 Resource process: smoker with resource 2 requested resources
+1713606576 Resource process: waiting for request
+1713606576 Resource process: smoker with resource 1 requested resources
+1713606576 Resource process: smoker with resource 1 is being served
+1713606576 Resource process: waiting for request
+1713606576 Resource process: producer process is about to deliver new resources
+1713606576 Resource process: new resources received
+1713606576 Resource process: smoker with resource 2 is being served
+1713606576 Resource process: waiting for request
+1713606578 Resource process: producer process is about to deliver new resources
+1713606578 Resource process: new resources received
+1713606578 Resource process: waiting for request
+1713606579 Resource process: producer process is about to deliver new resources
+1713606579 Resource process: new resources received
+1713606579 Resource process: waiting for request
+1713606579 Resource process: smoker with resource 0 requested resources
+1713606579 Resource process: smoker with resource 0 is being served
+1713606579 Resource process: waiting for request
+1713606580 Resource process: smoker with resource 1 requested resources
+1713606580 Resource process: waiting for request
+1713606580 Resource process: producer process is about to deliver new resources
+1713606580 Resource process: new resources received
+1713606580 Resource process: waiting for request
+1713606581 Resource process: smoker with resource 2 requested resources
+1713606581 Resource process: waiting for request
+1713606581 Resource process: producer process is about to deliver new resources
+1713606581 Resource process: new resources received
+1713606581 Resource process: waiting for request
+1713606583 Resource process: producer process is about to deliver new resources
+1713606583 Resource process: new resources received
+1713606583 Resource process: smoker with resource 1 is being served
+1713606583 Resource process: waiting for request
+1713606584 Resource process: smoker with resource 0 requested resources
+1713606584 Resource process: smoker with resource 0 is being served
+1713606584 Resource process: waiting for request
+1713606584 Resource process: producer process is about to deliver new resources
+1713606584 Resource process: new resources received
+1713606584 Resource process: waiting for request
+1713606585 Resource process: producer process is about to deliver new resources
+1713606585 Resource process: new resources received
+1713606585 Resource process: smoker with resource 2 is being served
+1713606585 Resource process: waiting for request
+1713606586 Resource process: smoker with resource 1 requested resources
+1713606586 Resource process: waiting for request
+1713606586 Resource process: producer process is about to deliver new resources
+1713606586 Resource process: new resources received
+1713606586 Resource process: waiting for request
+1713606588 Resource process: producer process is about to deliver new resources
+1713606588 Resource process: new resources received
+1713606588 Resource process: smoker with resource 1 is being served
+1713606588 Resource process: waiting for request
+1713606588 Resource process: smoker with resource 0 requested resources
+1713606588 Resource process: smoker with resource 0 is being served
+1713606588 Resource process: waiting for request
+1713606589 Resource process: producer process is about to deliver new resources
+1713606589 Resource process: new resources received
+1713606589 Resource process: waiting for request
+1713606590 Resource process: smoker with resource 2 requested resources
+1713606590 Resource process: waiting for request
+1713606590 Resource process: producer process is about to deliver new resources
+1713606590 Resource process: new resources received
+1713606590 Resource process: waiting for request

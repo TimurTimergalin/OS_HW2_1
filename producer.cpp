@@ -1,10 +1,18 @@
 #include "handshake.h"
+#include "choose_out.h"
 
+#include <ctime>
 #include <random>
 #include <chrono>
 #include "thread"  // for waiting only, no high-level thread tools were used
 
-const std::string header = "Producer process: ";
+struct Header {
+    friend std::ostream &operator<<(std::ostream& os, const Header&) {
+        return os << time(nullptr) << " Producer process: ";
+    }
+} header;
+
+std::unique_ptr<std::ostream> cout_ptr;
 
 Pipe<int> request_pipe = pipes::get<int>(request_pipe_seed);
 Pipe<std::array<int, smokers_count>> resources_pipe = pipes::get<std::array<int, smokers_count>>(resources_pipe_seed);
@@ -20,7 +28,7 @@ void wait_() {
 }
 
 void work() {
-    std::ostream& cout = std::cout;
+    std::ostream& cout = *cout_ptr;
     cout << header << "initialization finished\n";
     while (true) {
         cout << header << "producing resources\n";
@@ -38,6 +46,7 @@ void work() {
     }
 }
 
-int main() {
+int main(int argc, char *argv[]) {
+    cout_ptr = choose_out(argc, argv);
     handshake(work);
 }

@@ -3,17 +3,25 @@
 #include "constants.h"
 #include "name_generator/NameGenerator.h"
 #include "semaphore/get.h"
+#include "choose_out.h"
 
 #include <unordered_set>
 #include <array>
 #include <csignal>
 #include <iostream>
+#include <memory>
+#include <ctime>
+
 #include <fcntl.h>
 
 int ignore = close(creat(system_v_keyfile.c_str(), 0666));
 
-std::ostream *cout_ptr;
-const std::string header = "Master process: ";
+std::unique_ptr<std::ostream> cout_ptr;
+struct Header {
+    friend std::ostream& operator<<(std::ostream& os, const Header&) {
+        return os << time(nullptr) << " Master process: ";
+    }
+} header;
 
 const int total = smokers_count + 2;
 std::unordered_set<pid_t> registered{};
@@ -69,8 +77,8 @@ void handle_sigint(int) {
     finish();
 }
 
-int main() {
-    cout_ptr = &std::cout;
+int main(int argc, char *argv[]) {
+    cout_ptr = choose_out(argc, argv);
     std::ostream &cout = *cout_ptr;
     signal(SIGINT, handle_sigint);
     signal(SIGTERM, handle_sigint);

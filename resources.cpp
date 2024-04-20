@@ -1,9 +1,17 @@
 #include "handshake.h"
 #include "name_generator/NameGenerator.h"
+#include "choose_out.h"
 
+#include <ctime>
 #include <queue>
 
-const std::string header = "Resource process: ";
+struct Header {
+    friend std::ostream& operator<<(std::ostream &os, const Header&) {
+        return os << time(nullptr) << " Resource process: ";
+    }
+} header;
+
+std::unique_ptr<std::ostream> cout_ptr;
 
 Pipe<int> request_pipe = pipes::get<int>(request_pipe_seed);
 Pipe<std::array<int, smokers_count>> resources_pipe = pipes::get<std::array<int, smokers_count>>(resources_pipe_seed);
@@ -22,7 +30,7 @@ bool check_resources(const std::array<int, smokers_count> &resources, int res) {
 }
 
 void work() {
-    std::ostream& cout = std::cout;
+    std::ostream& cout = *cout_ptr;
     cout << header << "initialization complete\n";
 
     std::array<int, smokers_count> total{};
@@ -68,7 +76,8 @@ void work() {
     }
 }
 
-int main() {
+int main(int argc, char *argv[]) {
+    cout_ptr = choose_out(argc, argv);
     for (int i = 0; i < smokers_count; ++i) {
         response_pipes[i] = pipes::get<None>(join(response_pipe_seed_template, i));
     }

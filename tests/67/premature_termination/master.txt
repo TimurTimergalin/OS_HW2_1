@@ -1,0 +1,10 @@
+1713606939 Master process: initialization complete
+1713606939 Master process: awaiting registration, expected number of processes: 5
+1713606943 Master process: process 5176 registered, 4 remaining
+1713606943 Master process: process 5174 registered, 3 remaining
+1713606943 Master process: process 5175 registered, 2 remaining
+1713606947 Master process: process 5183 registered, 1 remaining
+1713606950 Master process: process 5192 registered, 0 remaining
+1713606950 Master process: registration complete, signaling for start
+1713606950 Master process: finished signaling, waiting for processes to finish
+1713607005 Master process: premature termination, terminating other processes and unlinking shared memory

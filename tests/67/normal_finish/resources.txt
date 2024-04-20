@@ -1,0 +1,1649 @@
+1713607854 Resource process: initialization complete
+1713607854 Resource process: waiting for request
+1713607854 Resource process: smoker with resource 2 requested resources
+1713607854 Resource process: waiting for request
+1713607854 Resource process: smoker with resource 1 requested resources
+1713607854 Resource process: waiting for request
+1713607854 Resource process: smoker with resource 0 requested resources
+1713607854 Resource process: waiting for request
+1713607856 Resource process: producer process is about to deliver new resources
+1713607856 Resource process: new resources received
+1713607856 Resource process: smoker with resource 0 is being served
+1713607856 Resource process: waiting for request
+1713607857 Resource process: smoker with resource 0 requested resources
+1713607857 Resource process: waiting for request
+1713607858 Resource process: producer process is about to deliver new resources
+1713607858 Resource process: new resources received
+1713607858 Resource process: smoker with resource 2 is being served
+1713607858 Resource process: waiting for request
+1713607860 Resource process: smoker with resource 2 requested resources
+1713607860 Resource process: waiting for request
+1713607861 Resource process: producer process is about to deliver new resources
+1713607861 Resource process: new resources received
+1713607861 Resource process: smoker with resource 2 is being served
+1713607861 Resource process: waiting for request
+1713607862 Resource process: smoker with resource 2 requested resources
+1713607862 Resource process: smoker with resource 1 is being served
+1713607862 Resource process: smoker with resource 0 is being served
+1713607862 Resource process: smoker with resource 2 is being served
+1713607862 Resource process: waiting for request
+1713607863 Resource process: producer process is about to deliver new resources
+1713607863 Resource process: new resources received
+1713607863 Resource process: waiting for request
+1713607863 Resource process: smoker with resource 0 requested resources
+1713607863 Resource process: smoker with resource 0 is being served
+1713607863 Resource process: waiting for request
+1713607863 Resource process: smoker with resource 2 requested resources
+1713607863 Resource process: smoker with resource 2 is being served
+1713607863 Resource process: waiting for request
+1713607864 Resource process: smoker with resource 1 requested resources
+1713607864 Resource process: smoker with resource 1 is being served
+1713607864 Resource process: waiting for request
+1713607864 Resource process: smoker with resource 0 requested resources
+1713607864 Resource process: smoker with resource 0 is being served
+1713607864 Resource process: waiting for request
+1713607865 Resource process: smoker with resource 2 requested resources
+1713607865 Resource process: smoker with resource 2 is being served
+1713607865 Resource process: waiting for request
+1713607865 Resource process: producer process is about to deliver new resources
+1713607865 Resource process: new resources received
+1713607865 Resource process: waiting for request
+1713607866 Resource process: smoker with resource 0 requested resources
+1713607866 Resource process: smoker with resource 0 is being served
+1713607866 Resource process: waiting for request
+1713607866 Resource process: smoker with resource 1 requested resources
+1713607866 Resource process: smoker with resource 1 is being served
+1713607866 Resource process: waiting for request
+1713607866 Resource process: smoker with resource 2 requested resources
+1713607866 Resource process: smoker with resource 2 is being served
+1713607866 Resource process: waiting for request
+1713607867 Resource process: smoker with resource 0 requested resources
+1713607867 Resource process: smoker with resource 0 is being served
+1713607867 Resource process: waiting for request
+1713607867 Resource process: producer process is about to deliver new resources
+1713607867 Resource process: new resources received
+1713607867 Resource process: waiting for request
+1713607867 Resource process: smoker with resource 1 requested resources
+1713607867 Resource process: smoker with resource 1 is being served
+1713607867 Resource process: waiting for request
+1713607867 Resource process: smoker with resource 2 requested resources
+1713607867 Resource process: smoker with resource 2 is being served
+1713607867 Resource process: waiting for request
+1713607868 Resource process: smoker with resource 0 requested resources
+1713607868 Resource process: smoker with resource 0 is being served
+1713607868 Resource process: waiting for request
+1713607869 Resource process: smoker with resource 2 requested resources
+1713607869 Resource process: smoker with resource 2 is being served
+1713607869 Resource process: waiting for request
+1713607869 Resource process: smoker with resource 0 requested resources
+1713607869 Resource process: smoker with resource 0 is being served
+1713607869 Resource process: waiting for request
+1713607869 Resource process: smoker with resource 1 requested resources
+1713607869 Resource process: smoker with resource 1 is being served
+1713607869 Resource process: waiting for request
+1713607869 Resource process: producer process is about to deliver new resources
+1713607869 Resource process: new resources received
+1713607869 Resource process: waiting for request
+1713607870 Resource process: smoker with resource 0 requested resources
+1713607870 Resource process: smoker with resource 0 is being served
+1713607870 Resource process: waiting for request
+1713607870 Resource process: smoker with resource 2 requested resources
+1713607870 Resource process: smoker with resource 2 is being served
+1713607870 Resource process: waiting for request
+1713607871 Resource process: smoker with resource 1 requested resources
+1713607871 Resource process: smoker with resource 1 is being served
+1713607871 Resource process: waiting for request
+1713607871 Resource process: smoker with resource 0 requested resources
+1713607871 Resource process: smoker with resource 0 is being served
+1713607871 Resource process: waiting for request
+1713607872 Resource process: smoker with resource 2 requested resources
+1713607872 Resource process: smoker with resource 2 is being served
+1713607872 Resource process: waiting for request
+1713607872 Resource process: producer process is about to deliver new resources
+1713607872 Resource process: new resources received
+1713607872 Resource process: waiting for request
+1713607873 Resource process: smoker with resource 0 requested resources
+1713607873 Resource process: smoker with resource 0 is being served
+1713607873 Resource process: waiting for request
+1713607873 Resource process: smoker with resource 1 requested resources
+1713607873 Resource process: smoker with resource 1 is being served
+1713607873 Resource process: waiting for request
+1713607873 Resource process: smoker with resource 2 requested resources
+1713607873 Resource process: smoker with resource 2 is being served
+1713607873 Resource process: waiting for request
+1713607874 Resource process: smoker with resource 0 requested resources
+1713607874 Resource process: smoker with resource 0 is being served
+1713607874 Resource process: waiting for request
+1713607874 Resource process: producer process is about to deliver new resources
+1713607874 Resource process: new resources received
+1713607874 Resource process: waiting for request
+1713607874 Resource process: smoker with resource 2 requested resources
+1713607874 Resource process: smoker with resource 2 is being served
+1713607874 Resource process: waiting for request
+1713607875 Resource process: smoker with resource 1 requested resources
+1713607875 Resource process: smoker with resource 1 is being served
+1713607875 Resource process: waiting for request
+1713607875 Resource process: smoker with resource 0 requested resources
+1713607875 Resource process: smoker with resource 0 is being served
+1713607875 Resource process: waiting for request
+1713607876 Resource process: smoker with resource 2 requested resources
+1713607876 Resource process: smoker with resource 2 is being served
+1713607876 Resource process: waiting for request
+1713607876 Resource process: producer process is about to deliver new resources
+1713607876 Resource process: new resources received
+1713607876 Resource process: waiting for request
+1713607876 Resource process: smoker with resource 0 requested resources
+1713607876 Resource process: smoker with resource 0 is being served
+1713607876 Resource process: waiting for request
+1713607877 Resource process: smoker with resource 1 requested resources
+1713607877 Resource process: smoker with resource 1 is being served
+1713607877 Resource process: waiting for request
+1713607877 Resource process: smoker with resource 2 requested resources
+1713607877 Resource process: smoker with resource 2 is being served
+1713607877 Resource process: waiting for request
+1713607877 Resource process: smoker with resource 0 requested resources
+1713607877 Resource process: smoker with resource 0 is being served
+1713607877 Resource process: waiting for request
+1713607878 Resource process: producer process is about to deliver new resources
+1713607878 Resource process: new resources received
+1713607878 Resource process: waiting for request
+1713607878 Resource process: smoker with resource 1 requested resources
+1713607878 Resource process: smoker with resource 1 is being served
+1713607878 Resource process: waiting for request
+1713607878 Resource process: smoker with resource 0 requested resources
+1713607878 Resource process: smoker with resource 0 is being served
+1713607878 Resource process: waiting for request
+1713607878 Resource process: smoker with resource 2 requested resources
+1713607878 Resource process: smoker with resource 2 is being served
+1713607878 Resource process: waiting for request
+1713607880 Resource process: smoker with resource 0 requested resources
+1713607880 Resource process: smoker with resource 0 is being served
+1713607880 Resource process: waiting for request
+1713607880 Resource process: smoker with resource 2 requested resources
+1713607880 Resource process: smoker with resource 2 is being served
+1713607880 Resource process: waiting for request
+1713607880 Resource process: smoker with resource 1 requested resources
+1713607880 Resource process: smoker with resource 1 is being served
+1713607880 Resource process: waiting for request
+1713607880 Resource process: producer process is about to deliver new resources
+1713607880 Resource process: new resources received
+1713607880 Resource process: waiting for request
+1713607881 Resource process: smoker with resource 0 requested resources
+1713607881 Resource process: smoker with resource 0 is being served
+1713607881 Resource process: waiting for request
+1713607881 Resource process: smoker with resource 2 requested resources
+1713607881 Resource process: smoker with resource 2 is being served
+1713607881 Resource process: waiting for request
+1713607882 Resource process: smoker with resource 0 requested resources
+1713607882 Resource process: smoker with resource 0 is being served
+1713607882 Resource process: waiting for request
+1713607882 Resource process: smoker with resource 1 requested resources
+1713607882 Resource process: smoker with resource 1 is being served
+1713607882 Resource process: waiting for request
+1713607883 Resource process: smoker with resource 2 requested resources
+1713607883 Resource process: smoker with resource 2 is being served
+1713607883 Resource process: waiting for request
+1713607883 Resource process: producer process is about to deliver new resources
+1713607883 Resource process: new resources received
+1713607883 Resource process: waiting for request
+1713607883 Resource process: smoker with resource 0 requested resources
+1713607883 Resource process: smoker with resource 0 is being served
+1713607883 Resource process: waiting for request
+1713607884 Resource process: smoker with resource 1 requested resources
+1713607884 Resource process: smoker with resource 1 is being served
+1713607884 Resource process: waiting for request
+1713607884 Resource process: smoker with resource 2 requested resources
+1713607884 Resource process: smoker with resource 2 is being served
+1713607884 Resource process: waiting for request
+1713607884 Resource process: smoker with resource 0 requested resources
+1713607884 Resource process: smoker with resource 0 is being served
+1713607884 Resource process: waiting for request
+1713607885 Resource process: producer process is about to deliver new resources
+1713607885 Resource process: new resources received
+1713607885 Resource process: waiting for request
+1713607885 Resource process: smoker with resource 2 requested resources
+1713607885 Resource process: smoker with resource 2 is being served
+1713607885 Resource process: waiting for request
+1713607885 Resource process: smoker with resource 0 requested resources
+1713607885 Resource process: smoker with resource 0 is being served
+1713607885 Resource process: waiting for request
+1713607886 Resource process: smoker with resource 1 requested resources
+1713607886 Resource process: smoker with resource 1 is being served
+1713607886 Resource process: waiting for request
+1713607887 Resource process: smoker with resource 0 requested resources
+1713607887 Resource process: smoker with resource 0 is being served
+1713607887 Resource process: waiting for request
+1713607887 Resource process: smoker with resource 2 requested resources
+1713607887 Resource process: smoker with resource 2 is being served
+1713607887 Resource process: waiting for request
+1713607887 Resource process: producer process is about to deliver new resources
+1713607887 Resource process: new resources received
+1713607887 Resource process: waiting for request
+1713607887 Resource process: smoker with resource 1 requested resources
+1713607887 Resource process: smoker with resource 1 is being served
+1713607887 Resource process: waiting for request
+1713607888 Resource process: smoker with resource 0 requested resources
+1713607888 Resource process: smoker with resource 0 is being served
+1713607888 Resource process: waiting for request
+1713607888 Resource process: smoker with resource 2 requested resources
+1713607888 Resource process: smoker with resource 2 is being served
+1713607888 Resource process: waiting for request
+1713607889 Resource process: smoker with resource 0 requested resources
+1713607889 Resource process: smoker with resource 0 is being served
+1713607889 Resource process: waiting for request
+1713607889 Resource process: producer process is about to deliver new resources
+1713607889 Resource process: new resources received
+1713607889 Resource process: waiting for request
+1713607889 Resource process: smoker with resource 1 requested resources
+1713607889 Resource process: smoker with resource 1 is being served
+1713607889 Resource process: waiting for request
+1713607889 Resource process: smoker with resource 2 requested resources
+1713607889 Resource process: smoker with resource 2 is being served
+1713607889 Resource process: waiting for request
+1713607890 Resource process: smoker with resource 0 requested resources
+1713607890 Resource process: smoker with resource 0 is being served
+1713607890 Resource process: waiting for request
+1713607891 Resource process: smoker with resource 2 requested resources
+1713607891 Resource process: smoker with resource 2 is being served
+1713607891 Resource process: waiting for request
+1713607891 Resource process: smoker with resource 1 requested resources
+1713607891 Resource process: smoker with resource 1 is being served
+1713607891 Resource process: waiting for request
+1713607891 Resource process: smoker with resource 0 requested resources
+1713607891 Resource process: smoker with resource 0 is being served
+1713607891 Resource process: waiting for request
+1713607891 Resource process: producer process is about to deliver new resources
+1713607891 Resource process: new resources received
+1713607891 Resource process: waiting for request
+1713607892 Resource process: smoker with resource 2 requested resources
+1713607892 Resource process: smoker with resource 2 is being served
+1713607892 Resource process: waiting for request
+1713607892 Resource process: smoker with resource 0 requested resources
+1713607892 Resource process: smoker with resource 0 is being served
+1713607892 Resource process: waiting for request
+1713607893 Resource process: smoker with resource 1 requested resources
+1713607893 Resource process: smoker with resource 1 is being served
+1713607893 Resource process: waiting for request
+1713607894 Resource process: smoker with resource 2 requested resources
+1713607894 Resource process: smoker with resource 2 is being served
+1713607894 Resource process: waiting for request
+1713607894 Resource process: producer process is about to deliver new resources
+1713607894 Resource process: new resources received
+1713607894 Resource process: waiting for request
+1713607894 Resource process: smoker with resource 0 requested resources
+1713607894 Resource process: smoker with resource 0 is being served
+1713607894 Resource process: waiting for request
+1713607895 Resource process: smoker with resource 1 requested resources
+1713607895 Resource process: smoker with resource 1 is being served
+1713607895 Resource process: waiting for request
+1713607895 Resource process: smoker with resource 0 requested resources
+1713607895 Resource process: smoker with resource 0 is being served
+1713607895 Resource process: waiting for request
+1713607895 Resource process: smoker with resource 2 requested resources
+1713607895 Resource process: smoker with resource 2 is being served
+1713607895 Resource process: waiting for request
+1713607896 Resource process: producer process is about to deliver new resources
+1713607896 Resource process: new resources received
+1713607896 Resource process: waiting for request
+1713607896 Resource process: smoker with resource 0 requested resources
+1713607896 Resource process: smoker with resource 0 is being served
+1713607896 Resource process: waiting for request
+1713607896 Resource process: smoker with resource 2 requested resources
+1713607896 Resource process: smoker with resource 2 is being served
+1713607896 Resource process: waiting for request
+1713607897 Resource process: smoker with resource 1 requested resources
+1713607897 Resource process: smoker with resource 1 is being served
+1713607897 Resource process: waiting for request
+1713607897 Resource process: smoker with resource 0 requested resources
+1713607897 Resource process: smoker with resource 0 is being served
+1713607897 Resource process: waiting for request
+1713607898 Resource process: smoker with resource 2 requested resources
+1713607898 Resource process: smoker with resource 2 is being served
+1713607898 Resource process: waiting for request
+1713607898 Resource process: producer process is about to deliver new resources
+1713607898 Resource process: new resources received
+1713607898 Resource process: waiting for request
+1713607898 Resource process: smoker with resource 0 requested resources
+1713607898 Resource process: smoker with resource 0 is being served
+1713607898 Resource process: waiting for request
+1713607898 Resource process: smoker with resource 1 requested resources
+1713607898 Resource process: smoker with resource 1 is being served
+1713607898 Resource process: waiting for request
+1713607899 Resource process: smoker with resource 2 requested resources
+1713607899 Resource process: smoker with resource 2 is being served
+1713607899 Resource process: waiting for request
+1713607900 Resource process: smoker with resource 0 requested resources
+1713607900 Resource process: smoker with resource 0 is being served
+1713607900 Resource process: waiting for request
+1713607900 Resource process: producer process is about to deliver new resources
+1713607900 Resource process: new resources received
+1713607900 Resource process: waiting for request
+1713607900 Resource process: smoker with resource 1 requested resources
+1713607900 Resource process: smoker with resource 1 is being served
+1713607900 Resource process: waiting for request
+1713607901 Resource process: smoker with resource 2 requested resources
+1713607901 Resource process: smoker with resource 2 is being served
+1713607901 Resource process: waiting for request
+1713607901 Resource process: smoker with resource 0 requested resources
+1713607901 Resource process: smoker with resource 0 is being served
+1713607901 Resource process: waiting for request
+1713607902 Resource process: smoker with resource 0 requested resources
+1713607902 Resource process: smoker with resource 0 is being served
+1713607902 Resource process: waiting for request
+1713607902 Resource process: smoker with resource 2 requested resources
+1713607902 Resource process: smoker with resource 2 is being served
+1713607902 Resource process: waiting for request
+1713607902 Resource process: smoker with resource 1 requested resources
+1713607902 Resource process: smoker with resource 1 is being served
+1713607902 Resource process: waiting for request
+1713607902 Resource process: producer process is about to deliver new resources
+1713607902 Resource process: new resources received
+1713607902 Resource process: waiting for request
+1713607903 Resource process: smoker with resource 0 requested resources
+1713607903 Resource process: smoker with resource 0 is being served
+1713607903 Resource process: waiting for request
+1713607903 Resource process: smoker with resource 2 requested resources
+1713607903 Resource process: smoker with resource 2 is being served
+1713607903 Resource process: waiting for request
+1713607904 Resource process: smoker with resource 1 requested resources
+1713607904 Resource process: smoker with resource 1 is being served
+1713607904 Resource process: waiting for request
+1713607904 Resource process: smoker with resource 0 requested resources
+1713607904 Resource process: smoker with resource 0 is being served
+1713607904 Resource process: waiting for request
+1713607905 Resource process: smoker with resource 2 requested resources
+1713607905 Resource process: smoker with resource 2 is being served
+1713607905 Resource process: waiting for request
+1713607905 Resource process: producer process is about to deliver new resources
+1713607905 Resource process: new resources received
+1713607905 Resource process: waiting for request
+1713607905 Resource process: smoker with resource 0 requested resources
+1713607905 Resource process: smoker with resource 0 is being served
+1713607905 Resource process: waiting for request
+1713607906 Resource process: smoker with resource 1 requested resources
+1713607906 Resource process: smoker with resource 1 is being served
+1713607906 Resource process: waiting for request
+1713607906 Resource process: smoker with resource 2 requested resources
+1713607906 Resource process: smoker with resource 2 is being served
+1713607906 Resource process: waiting for request
+1713607907 Resource process: smoker with resource 0 requested resources
+1713607907 Resource process: smoker with resource 0 is being served
+1713607907 Resource process: waiting for request
+1713607907 Resource process: producer process is about to deliver new resources
+1713607907 Resource process: new resources received
+1713607907 Resource process: waiting for request
+1713607907 Resource process: smoker with resource 2 requested resources
+1713607907 Resource process: smoker with resource 2 is being served
+1713607907 Resource process: waiting for request
+1713607908 Resource process: smoker with resource 1 requested resources
+1713607908 Resource process: smoker with resource 1 is being served
+1713607908 Resource process: waiting for request
+1713607908 Resource process: smoker with resource 0 requested resources
+1713607908 Resource process: smoker with resource 0 is being served
+1713607908 Resource process: waiting for request
+1713607909 Resource process: smoker with resource 2 requested resources
+1713607909 Resource process: smoker with resource 2 is being served
+1713607909 Resource process: waiting for request
+1713607909 Resource process: smoker with resource 0 requested resources
+1713607909 Resource process: smoker with resource 0 is being served
+1713607909 Resource process: waiting for request
+1713607909 Resource process: producer process is about to deliver new resources
+1713607909 Resource process: new resources received
+1713607909 Resource process: waiting for request
+1713607909 Resource process: smoker with resource 1 requested resources
+1713607909 Resource process: smoker with resource 1 is being served
+1713607909 Resource process: waiting for request
+1713607910 Resource process: smoker with resource 0 requested resources
+1713607910 Resource process: smoker with resource 0 is being served
+1713607910 Resource process: waiting for request
+1713607910 Resource process: smoker with resource 2 requested resources
+1713607910 Resource process: smoker with resource 2 is being served
+1713607910 Resource process: waiting for request
+1713607911 Resource process: smoker with resource 1 requested resources
+1713607911 Resource process: smoker with resource 1 is being served
+1713607911 Resource process: waiting for request
+1713607911 Resource process: smoker with resource 0 requested resources
+1713607911 Resource process: smoker with resource 0 is being served
+1713607911 Resource process: waiting for request
+1713607911 Resource process: producer process is about to deliver new resources
+1713607911 Resource process: new resources received
+1713607911 Resource process: waiting for request
+1713607912 Resource process: smoker with resource 2 requested resources
+1713607912 Resource process: smoker with resource 2 is being served
+1713607912 Resource process: waiting for request
+1713607912 Resource process: smoker with resource 0 requested resources
+1713607912 Resource process: smoker with resource 0 is being served
+1713607912 Resource process: waiting for request
+1713607913 Resource process: smoker with resource 2 requested resources
+1713607913 Resource process: smoker with resource 2 is being served
+1713607913 Resource process: waiting for request
+1713607913 Resource process: smoker with resource 1 requested resources
+1713607913 Resource process: smoker with resource 1 is being served
+1713607913 Resource process: waiting for request
+1713607913 Resource process: producer process is about to deliver new resources
+1713607913 Resource process: new resources received
+1713607913 Resource process: waiting for request
+1713607914 Resource process: smoker with resource 0 requested resources
+1713607914 Resource process: smoker with resource 0 is being served
+1713607914 Resource process: waiting for request
+1713607914 Resource process: smoker with resource 2 requested resources
+1713607914 Resource process: smoker with resource 2 is being served
+1713607914 Resource process: waiting for request
+1713607915 Resource process: smoker with resource 0 requested resources
+1713607915 Resource process: smoker with resource 0 is being served
+1713607915 Resource process: waiting for request
+1713607915 Resource process: smoker with resource 1 requested resources
+1713607915 Resource process: smoker with resource 1 is being served
+1713607915 Resource process: waiting for request
+1713607916 Resource process: smoker with resource 2 requested resources
+1713607916 Resource process: smoker with resource 2 is being served
+1713607916 Resource process: waiting for request
+1713607916 Resource process: producer process is about to deliver new resources
+1713607916 Resource process: new resources received
+1713607916 Resource process: waiting for request
+1713607916 Resource process: smoker with resource 0 requested resources
+1713607916 Resource process: smoker with resource 0 is being served
+1713607916 Resource process: waiting for request
+1713607917 Resource process: smoker with resource 1 requested resources
+1713607917 Resource process: smoker with resource 1 is being served
+1713607917 Resource process: waiting for request
+1713607917 Resource process: smoker with resource 2 requested resources
+1713607917 Resource process: smoker with resource 2 is being served
+1713607917 Resource process: waiting for request
+1713607917 Resource process: smoker with resource 0 requested resources
+1713607917 Resource process: smoker with resource 0 is being served
+1713607917 Resource process: waiting for request
+1713607918 Resource process: producer process is about to deliver new resources
+1713607918 Resource process: new resources received
+1713607918 Resource process: waiting for request
+1713607918 Resource process: smoker with resource 0 requested resources
+1713607918 Resource process: smoker with resource 0 is being served
+1713607918 Resource process: waiting for request
+1713607918 Resource process: smoker with resource 2 requested resources
+1713607918 Resource process: smoker with resource 2 is being served
+1713607918 Resource process: waiting for request
+1713607918 Resource process: smoker with resource 1 requested resources
+1713607918 Resource process: smoker with resource 1 is being served
+1713607918 Resource process: waiting for request
+1713607919 Resource process: smoker with resource 0 requested resources
+1713607919 Resource process: smoker with resource 0 is being served
+1713607919 Resource process: waiting for request
+1713607920 Resource process: smoker with resource 2 requested resources
+1713607920 Resource process: smoker with resource 2 is being served
+1713607920 Resource process: waiting for request
+1713607920 Resource process: producer process is about to deliver new resources
+1713607920 Resource process: new resources received
+1713607920 Resource process: waiting for request
+1713607920 Resource process: smoker with resource 1 requested resources
+1713607920 Resource process: smoker with resource 1 is being served
+1713607920 Resource process: waiting for request
+1713607921 Resource process: smoker with resource 0 requested resources
+1713607921 Resource process: smoker with resource 0 is being served
+1713607921 Resource process: waiting for request
+1713607921 Resource process: smoker with resource 2 requested resources
+1713607921 Resource process: smoker with resource 2 is being served
+1713607921 Resource process: waiting for request
+1713607922 Resource process: smoker with resource 0 requested resources
+1713607922 Resource process: smoker with resource 0 is being served
+1713607922 Resource process: waiting for request
+1713607922 Resource process: smoker with resource 1 requested resources
+1713607922 Resource process: smoker with resource 1 is being served
+1713607922 Resource process: waiting for request
+1713607922 Resource process: producer process is about to deliver new resources
+1713607922 Resource process: new resources received
+1713607922 Resource process: waiting for request
+1713607923 Resource process: smoker with resource 2 requested resources
+1713607923 Resource process: smoker with resource 2 is being served
+1713607923 Resource process: waiting for request
+1713607923 Resource process: smoker with resource 0 requested resources
+1713607923 Resource process: smoker with resource 0 is being served
+1713607923 Resource process: waiting for request
+1713607924 Resource process: smoker with resource 2 requested resources
+1713607924 Resource process: smoker with resource 2 is being served
+1713607924 Resource process: waiting for request
+1713607924 Resource process: smoker with resource 1 requested resources
+1713607924 Resource process: smoker with resource 1 is being served
+1713607924 Resource process: waiting for request
+1713607924 Resource process: smoker with resource 0 requested resources
+1713607924 Resource process: smoker with resource 0 is being served
+1713607924 Resource process: waiting for request
+1713607924 Resource process: producer process is about to deliver new resources
+1713607924 Resource process: new resources received
+1713607924 Resource process: waiting for request
+1713607925 Resource process: smoker with resource 2 requested resources
+1713607925 Resource process: smoker with resource 2 is being served
+1713607925 Resource process: waiting for request
+1713607925 Resource process: smoker with resource 0 requested resources
+1713607925 Resource process: smoker with resource 0 is being served
+1713607925 Resource process: waiting for request
+1713607926 Resource process: smoker with resource 1 requested resources
+1713607926 Resource process: smoker with resource 1 is being served
+1713607926 Resource process: waiting for request
+1713607927 Resource process: smoker with resource 0 requested resources
+1713607927 Resource process: smoker with resource 0 is being served
+1713607927 Resource process: waiting for request
+1713607927 Resource process: smoker with resource 2 requested resources
+1713607927 Resource process: smoker with resource 2 is being served
+1713607927 Resource process: waiting for request
+1713607927 Resource process: producer process is about to deliver new resources
+1713607927 Resource process: new resources received
+1713607927 Resource process: waiting for request
+1713607928 Resource process: smoker with resource 1 requested resources
+1713607928 Resource process: smoker with resource 1 is being served
+1713607928 Resource process: waiting for request
+1713607928 Resource process: smoker with resource 0 requested resources
+1713607928 Resource process: smoker with resource 0 is being served
+1713607928 Resource process: waiting for request
+1713607928 Resource process: smoker with resource 2 requested resources
+1713607928 Resource process: smoker with resource 2 is being served
+1713607928 Resource process: waiting for request
+1713607929 Resource process: smoker with resource 0 requested resources
+1713607929 Resource process: smoker with resource 0 is being served
+1713607929 Resource process: waiting for request
+1713607929 Resource process: producer process is about to deliver new resources
+1713607929 Resource process: new resources received
+1713607929 Resource process: waiting for request
+1713607929 Resource process: smoker with resource 2 requested resources
+1713607929 Resource process: smoker with resource 2 is being served
+1713607929 Resource process: waiting for request
+1713607929 Resource process: smoker with resource 1 requested resources
+1713607929 Resource process: smoker with resource 1 is being served
+1713607929 Resource process: waiting for request
+1713607930 Resource process: smoker with resource 0 requested resources
+1713607930 Resource process: smoker with resource 0 is being served
+1713607930 Resource process: waiting for request
+1713607931 Resource process: smoker with resource 2 requested resources
+1713607931 Resource process: smoker with resource 2 is being served
+1713607931 Resource process: waiting for request
+1713607931 Resource process: producer process is about to deliver new resources
+1713607931 Resource process: new resources received
+1713607931 Resource process: waiting for request
+1713607931 Resource process: smoker with resource 0 requested resources
+1713607931 Resource process: smoker with resource 0 is being served
+1713607931 Resource process: waiting for request
+1713607931 Resource process: smoker with resource 1 requested resources
+1713607931 Resource process: smoker with resource 1 is being served
+1713607931 Resource process: waiting for request
+1713607932 Resource process: smoker with resource 2 requested resources
+1713607932 Resource process: smoker with resource 2 is being served
+1713607932 Resource process: waiting for request
+1713607932 Resource process: smoker with resource 0 requested resources
+1713607932 Resource process: smoker with resource 0 is being served
+1713607932 Resource process: waiting for request
+1713607933 Resource process: smoker with resource 1 requested resources
+1713607933 Resource process: smoker with resource 1 is being served
+1713607933 Resource process: waiting for request
+1713607933 Resource process: producer process is about to deliver new resources
+1713607933 Resource process: new resources received
+1713607933 Resource process: waiting for request
+1713607934 Resource process: smoker with resource 2 requested resources
+1713607934 Resource process: smoker with resource 2 is being served
+1713607934 Resource process: waiting for request
+1713607934 Resource process: smoker with resource 0 requested resources
+1713607934 Resource process: smoker with resource 0 is being served
+1713607934 Resource process: waiting for request
+1713607935 Resource process: smoker with resource 0 requested resources
+1713607935 Resource process: smoker with resource 0 is being served
+1713607935 Resource process: waiting for request
+1713607935 Resource process: smoker with resource 1 requested resources
+1713607935 Resource process: smoker with resource 1 is being served
+1713607935 Resource process: waiting for request
+1713607935 Resource process: smoker with resource 2 requested resources
+1713607935 Resource process: smoker with resource 2 is being served
+1713607935 Resource process: waiting for request
+1713607936 Resource process: producer process is about to deliver new resources
+1713607936 Resource process: new resources received
+1713607936 Resource process: waiting for request
+1713607936 Resource process: smoker with resource 0 requested resources
+1713607936 Resource process: smoker with resource 0 is being served
+1713607936 Resource process: waiting for request
+1713607936 Resource process: smoker with resource 2 requested resources
+1713607936 Resource process: smoker with resource 2 is being served
+1713607936 Resource process: waiting for request
+1713607937 Resource process: smoker with resource 1 requested resources
+1713607937 Resource process: smoker with resource 1 is being served
+1713607937 Resource process: waiting for request
+1713607937 Resource process: smoker with resource 0 requested resources
+1713607937 Resource process: smoker with resource 0 is being served
+1713607937 Resource process: waiting for request
+1713607938 Resource process: smoker with resource 2 requested resources
+1713607938 Resource process: smoker with resource 2 is being served
+1713607938 Resource process: waiting for request
+1713607938 Resource process: producer process is about to deliver new resources
+1713607938 Resource process: new resources received
+1713607938 Resource process: waiting for request
+1713607938 Resource process: smoker with resource 0 requested resources
+1713607938 Resource process: smoker with resource 0 is being served
+1713607938 Resource process: waiting for request
+1713607939 Resource process: smoker with resource 1 requested resources
+1713607939 Resource process: smoker with resource 1 is being served
+1713607939 Resource process: waiting for request
+1713607939 Resource process: smoker with resource 2 requested resources
+1713607939 Resource process: smoker with resource 2 is being served
+1713607939 Resource process: waiting for request
+1713607939 Resource process: smoker with resource 0 requested resources
+1713607939 Resource process: smoker with resource 0 is being served
+1713607939 Resource process: waiting for request
+1713607940 Resource process: producer process is about to deliver new resources
+1713607940 Resource process: new resources received
+1713607940 Resource process: waiting for request
+1713607940 Resource process: smoker with resource 1 requested resources
+1713607940 Resource process: smoker with resource 1 is being served
+1713607940 Resource process: waiting for request
+1713607940 Resource process: smoker with resource 2 requested resources
+1713607940 Resource process: smoker with resource 2 is being served
+1713607940 Resource process: waiting for request
+1713607941 Resource process: smoker with resource 0 requested resources
+1713607941 Resource process: smoker with resource 0 is being served
+1713607941 Resource process: waiting for request
+1713607942 Resource process: smoker with resource 0 requested resources
+1713607942 Resource process: smoker with resource 0 is being served
+1713607942 Resource process: waiting for request
+1713607942 Resource process: smoker with resource 2 requested resources
+1713607942 Resource process: smoker with resource 2 is being served
+1713607942 Resource process: waiting for request
+1713607942 Resource process: producer process is about to deliver new resources
+1713607942 Resource process: new resources received
+1713607942 Resource process: waiting for request
+1713607942 Resource process: smoker with resource 1 requested resources
+1713607942 Resource process: smoker with resource 1 is being served
+1713607942 Resource process: waiting for request
+1713607943 Resource process: smoker with resource 0 requested resources
+1713607943 Resource process: smoker with resource 0 is being served
+1713607943 Resource process: waiting for request
+1713607943 Resource process: smoker with resource 2 requested resources
+1713607943 Resource process: smoker with resource 2 is being served
+1713607943 Resource process: waiting for request
+1713607944 Resource process: smoker with resource 1 requested resources
+1713607944 Resource process: smoker with resource 1 is being served
+1713607944 Resource process: waiting for request
+1713607944 Resource process: smoker with resource 0 requested resources
+1713607944 Resource process: smoker with resource 0 is being served
+1713607944 Resource process: waiting for request
+1713607944 Resource process: producer process is about to deliver new resources
+1713607944 Resource process: new resources received
+1713607944 Resource process: waiting for request
+1713607945 Resource process: smoker with resource 2 requested resources
+1713607945 Resource process: smoker with resource 2 is being served
+1713607945 Resource process: waiting for request
+1713607945 Resource process: smoker with resource 0 requested resources
+1713607945 Resource process: smoker with resource 0 is being served
+1713607945 Resource process: waiting for request
+1713607946 Resource process: smoker with resource 1 requested resources
+1713607946 Resource process: smoker with resource 1 is being served
+1713607946 Resource process: waiting for request
+1713607946 Resource process: smoker with resource 2 requested resources
+1713607946 Resource process: smoker with resource 2 is being served
+1713607946 Resource process: waiting for request
+1713607946 Resource process: smoker with resource 0 requested resources
+1713607946 Resource process: smoker with resource 0 is being served
+1713607946 Resource process: waiting for request
+1713607947 Resource process: producer process is about to deliver new resources
+1713607947 Resource process: new resources received
+1713607947 Resource process: waiting for request
+1713607947 Resource process: smoker with resource 2 requested resources
+1713607947 Resource process: smoker with resource 2 is being served
+1713607947 Resource process: waiting for request
+1713607948 Resource process: smoker with resource 0 requested resources
+1713607948 Resource process: smoker with resource 0 is being served
+1713607948 Resource process: waiting for request
+1713607948 Resource process: smoker with resource 1 requested resources
+1713607948 Resource process: smoker with resource 1 is being served
+1713607948 Resource process: waiting for request
+1713607949 Resource process: smoker with resource 2 requested resources
+1713607949 Resource process: smoker with resource 2 is being served
+1713607949 Resource process: waiting for request
+1713607949 Resource process: producer process is about to deliver new resources
+1713607949 Resource process: new resources received
+1713607949 Resource process: waiting for request
+1713607949 Resource process: smoker with resource 0 requested resources
+1713607949 Resource process: smoker with resource 0 is being served
+1713607949 Resource process: waiting for request
+1713607949 Resource process: smoker with resource 1 requested resources
+1713607949 Resource process: smoker with resource 1 is being served
+1713607949 Resource process: waiting for request
+1713607950 Resource process: smoker with resource 0 requested resources
+1713607950 Resource process: smoker with resource 0 is being served
+1713607950 Resource process: waiting for request
+1713607950 Resource process: smoker with resource 2 requested resources
+1713607950 Resource process: smoker with resource 2 is being served
+1713607950 Resource process: waiting for request
+1713607951 Resource process: producer process is about to deliver new resources
+1713607951 Resource process: new resources received
+1713607951 Resource process: waiting for request
+1713607951 Resource process: smoker with resource 0 requested resources
+1713607951 Resource process: smoker with resource 0 is being served
+1713607951 Resource process: waiting for request
+1713607951 Resource process: smoker with resource 1 requested resources
+1713607951 Resource process: smoker with resource 1 is being served
+1713607951 Resource process: waiting for request
+1713607951 Resource process: smoker with resource 2 requested resources
+1713607951 Resource process: smoker with resource 2 is being served
+1713607951 Resource process: waiting for request
+1713607952 Resource process: smoker with resource 0 requested resources
+1713607952 Resource process: smoker with resource 0 is being served
+1713607952 Resource process: waiting for request
+1713607953 Resource process: smoker with resource 2 requested resources
+1713607953 Resource process: smoker with resource 2 is being served
+1713607953 Resource process: waiting for request
+1713607953 Resource process: producer process is about to deliver new resources
+1713607953 Resource process: new resources received
+1713607953 Resource process: waiting for request
+1713607953 Resource process: smoker with resource 1 requested resources
+1713607953 Resource process: smoker with resource 1 is being served
+1713607953 Resource process: waiting for request
+1713607954 Resource process: smoker with resource 0 requested resources
+1713607954 Resource process: smoker with resource 0 is being served
+1713607954 Resource process: waiting for request
+1713607954 Resource process: smoker with resource 2 requested resources
+1713607954 Resource process: smoker with resource 2 is being served
+1713607954 Resource process: waiting for request
+1713607955 Resource process: smoker with resource 0 requested resources
+1713607955 Resource process: smoker with resource 0 is being served
+1713607955 Resource process: waiting for request
+1713607955 Resource process: smoker with resource 1 requested resources
+1713607955 Resource process: smoker with resource 1 is being served
+1713607955 Resource process: waiting for request
+1713607955 Resource process: producer process is about to deliver new resources
+1713607955 Resource process: new resources received
+1713607955 Resource process: waiting for request
+1713607956 Resource process: smoker with resource 2 requested resources
+1713607956 Resource process: smoker with resource 2 is being served
+1713607956 Resource process: waiting for request
+1713607956 Resource process: smoker with resource 0 requested resources
+1713607956 Resource process: smoker with resource 0 is being served
+1713607956 Resource process: waiting for request
+1713607957 Resource process: smoker with resource 1 requested resources
+1713607957 Resource process: smoker with resource 1 is being served
+1713607957 Resource process: waiting for request
+1713607957 Resource process: smoker with resource 2 requested resources
+1713607957 Resource process: smoker with resource 2 is being served
+1713607957 Resource process: waiting for request
+1713607957 Resource process: smoker with resource 0 requested resources
+1713607957 Resource process: smoker with resource 0 is being served
+1713607957 Resource process: waiting for request
+1713607958 Resource process: producer process is about to deliver new resources
+1713607958 Resource process: new resources received
+1713607958 Resource process: waiting for request
+1713607958 Resource process: smoker with resource 0 requested resources
+1713607958 Resource process: smoker with resource 0 is being served
+1713607958 Resource process: waiting for request
+1713607958 Resource process: smoker with resource 2 requested resources
+1713607958 Resource process: smoker with resource 2 is being served
+1713607958 Resource process: waiting for request
+1713607959 Resource process: smoker with resource 1 requested resources
+1713607959 Resource process: smoker with resource 1 is being served
+1713607959 Resource process: waiting for request
+1713607959 Resource process: smoker with resource 0 requested resources
+1713607959 Resource process: smoker with resource 0 is being served
+1713607959 Resource process: waiting for request
+1713607960 Resource process: smoker with resource 2 requested resources
+1713607960 Resource process: smoker with resource 2 is being served
+1713607960 Resource process: waiting for request
+1713607960 Resource process: producer process is about to deliver new resources
+1713607960 Resource process: new resources received
+1713607960 Resource process: waiting for request
+1713607960 Resource process: smoker with resource 1 requested resources
+1713607960 Resource process: smoker with resource 1 is being served
+1713607960 Resource process: waiting for request
+1713607961 Resource process: smoker with resource 0 requested resources
+1713607961 Resource process: smoker with resource 0 is being served
+1713607961 Resource process: waiting for request
+1713607961 Resource process: smoker with resource 2 requested resources
+1713607961 Resource process: smoker with resource 2 is being served
+1713607961 Resource process: waiting for request
+1713607962 Resource process: smoker with resource 0 requested resources
+1713607962 Resource process: smoker with resource 0 is being served
+1713607962 Resource process: waiting for request
+1713607962 Resource process: producer process is about to deliver new resources
+1713607962 Resource process: new resources received
+1713607962 Resource process: waiting for request
+1713607962 Resource process: smoker with resource 1 requested resources
+1713607962 Resource process: smoker with resource 1 is being served
+1713607962 Resource process: waiting for request
+1713607962 Resource process: smoker with resource 2 requested resources
+1713607962 Resource process: smoker with resource 2 is being served
+1713607962 Resource process: waiting for request
+1713607963 Resource process: smoker with resource 0 requested resources
+1713607963 Resource process: smoker with resource 0 is being served
+1713607963 Resource process: waiting for request
+1713607964 Resource process: smoker with resource 2 requested resources
+1713607964 Resource process: smoker with resource 2 is being served
+1713607964 Resource process: waiting for request
+1713607964 Resource process: smoker with resource 0 requested resources
+1713607964 Resource process: smoker with resource 0 is being served
+1713607964 Resource process: waiting for request
+1713607964 Resource process: smoker with resource 1 requested resources
+1713607964 Resource process: smoker with resource 1 is being served
+1713607964 Resource process: waiting for request
+1713607964 Resource process: producer process is about to deliver new resources
+1713607964 Resource process: new resources received
+1713607964 Resource process: waiting for request
+1713607965 Resource process: smoker with resource 2 requested resources
+1713607965 Resource process: smoker with resource 2 is being served
+1713607965 Resource process: waiting for request
+1713607965 Resource process: smoker with resource 0 requested resources
+1713607965 Resource process: smoker with resource 0 is being served
+1713607965 Resource process: waiting for request
+1713607966 Resource process: smoker with resource 1 requested resources
+1713607966 Resource process: smoker with resource 1 is being served
+1713607966 Resource process: waiting for request
+1713607966 Resource process: producer process is about to deliver new resources
+1713607966 Resource process: new resources received
+1713607966 Resource process: waiting for request
+1713607966 Resource process: smoker with resource 0 requested resources
+1713607966 Resource process: smoker with resource 0 is being served
+1713607966 Resource process: waiting for request
+1713607967 Resource process: smoker with resource 2 requested resources
+1713607967 Resource process: smoker with resource 2 is being served
+1713607967 Resource process: waiting for request
+1713607968 Resource process: smoker with resource 0 requested resources
+1713607968 Resource process: smoker with resource 0 is being served
+1713607968 Resource process: waiting for request
+1713607968 Resource process: smoker with resource 1 requested resources
+1713607968 Resource process: smoker with resource 1 is being served
+1713607968 Resource process: waiting for request
+1713607968 Resource process: smoker with resource 2 requested resources
+1713607968 Resource process: smoker with resource 2 is being served
+1713607968 Resource process: waiting for request
+1713607969 Resource process: producer process is about to deliver new resources
+1713607969 Resource process: new resources received
+1713607969 Resource process: waiting for request
+1713607969 Resource process: smoker with resource 0 requested resources
+1713607969 Resource process: smoker with resource 0 is being served
+1713607969 Resource process: waiting for request
+1713607969 Resource process: smoker with resource 2 requested resources
+1713607969 Resource process: smoker with resource 2 is being served
+1713607969 Resource process: waiting for request
+1713607970 Resource process: smoker with resource 1 requested resources
+1713607970 Resource process: smoker with resource 1 is being served
+1713607970 Resource process: waiting for request
+1713607970 Resource process: smoker with resource 0 requested resources
+1713607970 Resource process: smoker with resource 0 is being served
+1713607970 Resource process: waiting for request
+1713607971 Resource process: smoker with resource 2 requested resources
+1713607971 Resource process: smoker with resource 2 is being served
+1713607971 Resource process: waiting for request
+1713607971 Resource process: producer process is about to deliver new resources
+1713607971 Resource process: new resources received
+1713607971 Resource process: waiting for request
+1713607971 Resource process: smoker with resource 0 requested resources
+1713607971 Resource process: smoker with resource 0 is being served
+1713607971 Resource process: waiting for request
+1713607971 Resource process: smoker with resource 1 requested resources
+1713607971 Resource process: smoker with resource 1 is being served
+1713607971 Resource process: waiting for request
+1713607972 Resource process: smoker with resource 2 requested resources
+1713607972 Resource process: smoker with resource 2 is being served
+1713607972 Resource process: waiting for request
+1713607972 Resource process: smoker with resource 0 requested resources
+1713607972 Resource process: smoker with resource 0 is being served
+1713607972 Resource process: waiting for request
+1713607973 Resource process: producer process is about to deliver new resources
+1713607973 Resource process: new resources received
+1713607973 Resource process: waiting for request
+1713607973 Resource process: smoker with resource 1 requested resources
+1713607973 Resource process: smoker with resource 1 is being served
+1713607973 Resource process: waiting for request
+1713607973 Resource process: smoker with resource 0 requested resources
+1713607973 Resource process: smoker with resource 0 is being served
+1713607973 Resource process: waiting for request
+1713607973 Resource process: smoker with resource 2 requested resources
+1713607973 Resource process: smoker with resource 2 is being served
+1713607973 Resource process: waiting for request
+1713607975 Resource process: smoker with resource 0 requested resources
+1713607975 Resource process: smoker with resource 0 is being served
+1713607975 Resource process: waiting for request
+1713607975 Resource process: smoker with resource 2 requested resources
+1713607975 Resource process: smoker with resource 2 is being served
+1713607975 Resource process: waiting for request
+1713607975 Resource process: smoker with resource 1 requested resources
+1713607975 Resource process: smoker with resource 1 is being served
+1713607975 Resource process: waiting for request
+1713607975 Resource process: producer process is about to deliver new resources
+1713607975 Resource process: new resources received
+1713607975 Resource process: waiting for request
+1713607976 Resource process: smoker with resource 0 requested resources
+1713607976 Resource process: smoker with resource 0 is being served
+1713607976 Resource process: waiting for request
+1713607976 Resource process: smoker with resource 2 requested resources
+1713607976 Resource process: smoker with resource 2 is being served
+1713607976 Resource process: waiting for request
+1713607977 Resource process: smoker with resource 1 requested resources
+1713607977 Resource process: smoker with resource 1 is being served
+1713607977 Resource process: waiting for request
+1713607977 Resource process: smoker with resource 0 requested resources
+1713607977 Resource process: smoker with resource 0 is being served
+1713607977 Resource process: waiting for request
+1713607977 Resource process: producer process is about to deliver new resources
+1713607977 Resource process: new resources received
+1713607977 Resource process: waiting for request
+1713607978 Resource process: smoker with resource 2 requested resources
+1713607978 Resource process: smoker with resource 2 is being served
+1713607978 Resource process: waiting for request
+1713607978 Resource process: smoker with resource 0 requested resources
+1713607978 Resource process: smoker with resource 0 is being served
+1713607978 Resource process: waiting for request
+1713607979 Resource process: smoker with resource 1 requested resources
+1713607979 Resource process: smoker with resource 1 is being served
+1713607979 Resource process: waiting for request
+1713607979 Resource process: smoker with resource 2 requested resources
+1713607979 Resource process: smoker with resource 2 is being served
+1713607979 Resource process: waiting for request
+1713607979 Resource process: smoker with resource 0 requested resources
+1713607979 Resource process: smoker with resource 0 is being served
+1713607979 Resource process: waiting for request
+1713607980 Resource process: producer process is about to deliver new resources
+1713607980 Resource process: new resources received
+1713607980 Resource process: waiting for request
+1713607980 Resource process: smoker with resource 2 requested resources
+1713607980 Resource process: smoker with resource 2 is being served
+1713607980 Resource process: waiting for request
+1713607980 Resource process: smoker with resource 1 requested resources
+1713607980 Resource process: smoker with resource 1 is being served
+1713607980 Resource process: waiting for request
+1713607980 Resource process: smoker with resource 0 requested resources
+1713607980 Resource process: smoker with resource 0 is being served
+1713607980 Resource process: waiting for request
+1713607982 Resource process: smoker with resource 0 requested resources
+1713607982 Resource process: smoker with resource 0 is being served
+1713607982 Resource process: waiting for request
+1713607982 Resource process: smoker with resource 2 requested resources
+1713607982 Resource process: smoker with resource 2 is being served
+1713607982 Resource process: waiting for request
+1713607982 Resource process: producer process is about to deliver new resources
+1713607982 Resource process: new resources received
+1713607982 Resource process: waiting for request
+1713607982 Resource process: smoker with resource 1 requested resources
+1713607982 Resource process: smoker with resource 1 is being served
+1713607982 Resource process: waiting for request
+1713607983 Resource process: smoker with resource 0 requested resources
+1713607983 Resource process: smoker with resource 0 is being served
+1713607983 Resource process: waiting for request
+1713607983 Resource process: smoker with resource 2 requested resources
+1713607983 Resource process: smoker with resource 2 is being served
+1713607983 Resource process: waiting for request
+1713607984 Resource process: producer process is about to deliver new resources
+1713607984 Resource process: new resources received
+1713607984 Resource process: waiting for request
+1713607984 Resource process: smoker with resource 0 requested resources
+1713607984 Resource process: smoker with resource 0 is being served
+1713607984 Resource process: waiting for request
+1713607984 Resource process: smoker with resource 1 requested resources
+1713607984 Resource process: smoker with resource 1 is being served
+1713607984 Resource process: waiting for request
+1713607984 Resource process: smoker with resource 2 requested resources
+1713607984 Resource process: smoker with resource 2 is being served
+1713607984 Resource process: waiting for request
+1713607985 Resource process: smoker with resource 0 requested resources
+1713607985 Resource process: smoker with resource 0 is being served
+1713607985 Resource process: waiting for request
+1713607986 Resource process: smoker with resource 2 requested resources
+1713607986 Resource process: smoker with resource 2 is being served
+1713607986 Resource process: waiting for request
+1713607986 Resource process: smoker with resource 1 requested resources
+1713607986 Resource process: smoker with resource 1 is being served
+1713607986 Resource process: waiting for request
+1713607986 Resource process: producer process is about to deliver new resources
+1713607986 Resource process: new resources received
+1713607986 Resource process: waiting for request
+1713607986 Resource process: smoker with resource 0 requested resources
+1713607986 Resource process: smoker with resource 0 is being served
+1713607986 Resource process: waiting for request
+1713607987 Resource process: smoker with resource 2 requested resources
+1713607987 Resource process: smoker with resource 2 is being served
+1713607987 Resource process: waiting for request
+1713607988 Resource process: smoker with resource 0 requested resources
+1713607988 Resource process: smoker with resource 0 is being served
+1713607988 Resource process: waiting for request
+1713607988 Resource process: smoker with resource 1 requested resources
+1713607988 Resource process: smoker with resource 1 is being served
+1713607988 Resource process: waiting for request
+1713607988 Resource process: producer process is about to deliver new resources
+1713607988 Resource process: new resources received
+1713607988 Resource process: waiting for request
+1713607989 Resource process: smoker with resource 2 requested resources
+1713607989 Resource process: smoker with resource 2 is being served
+1713607989 Resource process: waiting for request
+1713607989 Resource process: smoker with resource 0 requested resources
+1713607989 Resource process: smoker with resource 0 is being served
+1713607989 Resource process: waiting for request
+1713607990 Resource process: smoker with resource 1 requested resources
+1713607990 Resource process: smoker with resource 1 is being served
+1713607990 Resource process: waiting for request
+1713607990 Resource process: smoker with resource 0 requested resources
+1713607990 Resource process: smoker with resource 0 is being served
+1713607990 Resource process: waiting for request
+1713607990 Resource process: smoker with resource 2 requested resources
+1713607990 Resource process: smoker with resource 2 is being served
+1713607990 Resource process: waiting for request
+1713607991 Resource process: producer process is about to deliver new resources
+1713607991 Resource process: new resources received
+1713607991 Resource process: waiting for request
+1713607991 Resource process: smoker with resource 0 requested resources
+1713607991 Resource process: smoker with resource 0 is being served
+1713607991 Resource process: waiting for request
+1713607991 Resource process: smoker with resource 2 requested resources
+1713607991 Resource process: smoker with resource 2 is being served
+1713607991 Resource process: waiting for request
+1713607991 Resource process: smoker with resource 1 requested resources
+1713607991 Resource process: smoker with resource 1 is being served
+1713607991 Resource process: waiting for request
+1713607992 Resource process: smoker with resource 0 requested resources
+1713607992 Resource process: smoker with resource 0 is being served
+1713607992 Resource process: waiting for request
+1713607993 Resource process: smoker with resource 2 requested resources
+1713607993 Resource process: smoker with resource 2 is being served
+1713607993 Resource process: waiting for request
+1713607993 Resource process: producer process is about to deliver new resources
+1713607993 Resource process: new resources received
+1713607993 Resource process: waiting for request
+1713607993 Resource process: smoker with resource 1 requested resources
+1713607993 Resource process: smoker with resource 1 is being served
+1713607993 Resource process: waiting for request
+1713607993 Resource process: smoker with resource 0 requested resources
+1713607993 Resource process: smoker with resource 0 is being served
+1713607993 Resource process: waiting for request
+1713607994 Resource process: smoker with resource 2 requested resources
+1713607994 Resource process: smoker with resource 2 is being served
+1713607994 Resource process: waiting for request
+1713607995 Resource process: smoker with resource 0 requested resources
+1713607995 Resource process: smoker with resource 0 is being served
+1713607995 Resource process: waiting for request
+1713607995 Resource process: producer process is about to deliver new resources
+1713607995 Resource process: new resources received
+1713607995 Resource process: waiting for request
+1713607995 Resource process: smoker with resource 1 requested resources
+1713607995 Resource process: smoker with resource 1 is being served
+1713607995 Resource process: waiting for request
+1713607995 Resource process: smoker with resource 2 requested resources
+1713607995 Resource process: smoker with resource 2 is being served
+1713607995 Resource process: waiting for request
+1713607996 Resource process: smoker with resource 0 requested resources
+1713607996 Resource process: smoker with resource 0 is being served
+1713607996 Resource process: waiting for request
+1713607997 Resource process: smoker with resource 2 requested resources
+1713607997 Resource process: smoker with resource 2 is being served
+1713607997 Resource process: waiting for request
+1713607997 Resource process: smoker with resource 1 requested resources
+1713607997 Resource process: smoker with resource 1 is being served
+1713607997 Resource process: waiting for request
+1713607997 Resource process: smoker with resource 0 requested resources
+1713607997 Resource process: smoker with resource 0 is being served
+1713607997 Resource process: waiting for request
+1713607997 Resource process: producer process is about to deliver new resources
+1713607997 Resource process: new resources received
+1713607997 Resource process: waiting for request
+1713607998 Resource process: smoker with resource 0 requested resources
+1713607998 Resource process: smoker with resource 0 is being served
+1713607998 Resource process: waiting for request
+1713607998 Resource process: smoker with resource 2 requested resources
+1713607998 Resource process: smoker with resource 2 is being served
+1713607998 Resource process: waiting for request
+1713607999 Resource process: smoker with resource 1 requested resources
+1713607999 Resource process: smoker with resource 1 is being served
+1713607999 Resource process: waiting for request
+1713607999 Resource process: smoker with resource 0 requested resources
+1713607999 Resource process: smoker with resource 0 is being served
+1713607999 Resource process: waiting for request
+1713607999 Resource process: producer process is about to deliver new resources
+1713607999 Resource process: new resources received
+1713607999 Resource process: waiting for request
+1713608000 Resource process: smoker with resource 2 requested resources
+1713608000 Resource process: smoker with resource 2 is being served
+1713608000 Resource process: waiting for request
+1713608000 Resource process: smoker with resource 0 requested resources
+1713608000 Resource process: smoker with resource 0 is being served
+1713608000 Resource process: waiting for request
+1713608001 Resource process: smoker with resource 1 requested resources
+1713608001 Resource process: smoker with resource 1 is being served
+1713608001 Resource process: waiting for request
+1713608001 Resource process: smoker with resource 2 requested resources
+1713608001 Resource process: smoker with resource 2 is being served
+1713608001 Resource process: waiting for request
+1713608002 Resource process: producer process is about to deliver new resources
+1713608002 Resource process: new resources received
+1713608002 Resource process: waiting for request
+1713608002 Resource process: smoker with resource 0 requested resources
+1713608002 Resource process: smoker with resource 0 is being served
+1713608002 Resource process: waiting for request
+1713608002 Resource process: smoker with resource 2 requested resources
+1713608002 Resource process: smoker with resource 2 is being served
+1713608002 Resource process: waiting for request
+1713608002 Resource process: smoker with resource 1 requested resources
+1713608002 Resource process: smoker with resource 1 is being served
+1713608002 Resource process: waiting for request
+1713608003 Resource process: smoker with resource 0 requested resources
+1713608003 Resource process: smoker with resource 0 is being served
+1713608003 Resource process: waiting for request
+1713608004 Resource process: smoker with resource 2 requested resources
+1713608004 Resource process: smoker with resource 2 is being served
+1713608004 Resource process: waiting for request
+1713608004 Resource process: producer process is about to deliver new resources
+1713608004 Resource process: new resources received
+1713608004 Resource process: waiting for request
+1713608004 Resource process: smoker with resource 0 requested resources
+1713608004 Resource process: smoker with resource 0 is being served
+1713608004 Resource process: waiting for request
+1713608004 Resource process: smoker with resource 1 requested resources
+1713608004 Resource process: smoker with resource 1 is being served
+1713608004 Resource process: waiting for request
+1713608005 Resource process: smoker with resource 2 requested resources
+1713608005 Resource process: smoker with resource 2 is being served
+1713608005 Resource process: waiting for request
+1713608005 Resource process: smoker with resource 0 requested resources
+1713608005 Resource process: smoker with resource 0 is being served
+1713608005 Resource process: waiting for request
+1713608006 Resource process: producer process is about to deliver new resources
+1713608006 Resource process: new resources received
+1713608006 Resource process: waiting for request
+1713608006 Resource process: smoker with resource 1 requested resources
+1713608006 Resource process: smoker with resource 1 is being served
+1713608006 Resource process: waiting for request
+1713608006 Resource process: smoker with resource 0 requested resources
+1713608006 Resource process: smoker with resource 0 is being served
+1713608006 Resource process: waiting for request
+1713608006 Resource process: smoker with resource 2 requested resources
+1713608006 Resource process: smoker with resource 2 is being served
+1713608006 Resource process: waiting for request
+1713608007 Resource process: smoker with resource 0 requested resources
+1713608007 Resource process: smoker with resource 0 is being served
+1713608007 Resource process: waiting for request
+1713608008 Resource process: smoker with resource 1 requested resources
+1713608008 Resource process: smoker with resource 1 is being served
+1713608008 Resource process: waiting for request
+1713608008 Resource process: smoker with resource 2 requested resources
+1713608008 Resource process: smoker with resource 2 is being served
+1713608008 Resource process: waiting for request
+1713608008 Resource process: producer process is about to deliver new resources
+1713608008 Resource process: new resources received
+1713608008 Resource process: waiting for request
+1713608009 Resource process: smoker with resource 0 requested resources
+1713608009 Resource process: smoker with resource 0 is being served
+1713608009 Resource process: waiting for request
+1713608009 Resource process: smoker with resource 2 requested resources
+1713608009 Resource process: smoker with resource 2 is being served
+1713608009 Resource process: waiting for request
+1713608010 Resource process: smoker with resource 1 requested resources
+1713608010 Resource process: smoker with resource 1 is being served
+1713608010 Resource process: waiting for request
+1713608010 Resource process: smoker with resource 0 requested resources
+1713608010 Resource process: smoker with resource 0 is being served
+1713608010 Resource process: waiting for request
+1713608010 Resource process: producer process is about to deliver new resources
+1713608010 Resource process: new resources received
+1713608010 Resource process: waiting for request
+1713608011 Resource process: smoker with resource 2 requested resources
+1713608011 Resource process: smoker with resource 2 is being served
+1713608011 Resource process: waiting for request
+1713608011 Resource process: smoker with resource 0 requested resources
+1713608011 Resource process: smoker with resource 0 is being served
+1713608011 Resource process: waiting for request
+1713608011 Resource process: smoker with resource 1 requested resources
+1713608011 Resource process: smoker with resource 1 is being served
+1713608011 Resource process: waiting for request
+1713608012 Resource process: smoker with resource 2 requested resources
+1713608012 Resource process: smoker with resource 2 is being served
+1713608012 Resource process: waiting for request
+1713608012 Resource process: smoker with resource 0 requested resources
+1713608012 Resource process: smoker with resource 0 is being served
+1713608012 Resource process: waiting for request
+1713608013 Resource process: producer process is about to deliver new resources
+1713608013 Resource process: new resources received
+1713608013 Resource process: waiting for request
+1713608013 Resource process: smoker with resource 1 requested resources
+1713608013 Resource process: smoker with resource 1 is being served
+1713608013 Resource process: waiting for request
+1713608013 Resource process: smoker with resource 0 requested resources
+1713608013 Resource process: smoker with resource 0 is being served
+1713608013 Resource process: waiting for request
+1713608013 Resource process: smoker with resource 2 requested resources
+1713608013 Resource process: smoker with resource 2 is being served
+1713608013 Resource process: waiting for request
+1713608015 Resource process: smoker with resource 0 requested resources
+1713608015 Resource process: smoker with resource 0 is being served
+1713608015 Resource process: waiting for request
+1713608015 Resource process: smoker with resource 2 requested resources
+1713608015 Resource process: smoker with resource 2 is being served
+1713608015 Resource process: waiting for request
+1713608015 Resource process: producer process is about to deliver new resources
+1713608015 Resource process: new resources received
+1713608015 Resource process: waiting for request
+1713608015 Resource process: smoker with resource 1 requested resources
+1713608015 Resource process: smoker with resource 1 is being served
+1713608015 Resource process: waiting for request
+1713608016 Resource process: smoker with resource 0 requested resources
+1713608016 Resource process: smoker with resource 0 is being served
+1713608016 Resource process: waiting for request
+1713608016 Resource process: smoker with resource 2 requested resources
+1713608016 Resource process: smoker with resource 2 is being served
+1713608016 Resource process: waiting for request
+1713608017 Resource process: smoker with resource 0 requested resources
+1713608017 Resource process: smoker with resource 0 is being served
+1713608017 Resource process: waiting for request
+1713608017 Resource process: smoker with resource 1 requested resources
+1713608017 Resource process: smoker with resource 1 is being served
+1713608017 Resource process: waiting for request
+1713608017 Resource process: producer process is about to deliver new resources
+1713608017 Resource process: new resources received
+1713608017 Resource process: waiting for request
+1713608018 Resource process: smoker with resource 2 requested resources
+1713608018 Resource process: smoker with resource 2 is being served
+1713608018 Resource process: waiting for request
+1713608018 Resource process: smoker with resource 0 requested resources
+1713608018 Resource process: smoker with resource 0 is being served
+1713608018 Resource process: waiting for request
+1713608019 Resource process: smoker with resource 1 requested resources
+1713608019 Resource process: smoker with resource 1 is being served
+1713608019 Resource process: waiting for request
+1713608019 Resource process: smoker with resource 2 requested resources
+1713608019 Resource process: smoker with resource 2 is being served
+1713608019 Resource process: waiting for request
+1713608019 Resource process: smoker with resource 0 requested resources
+1713608019 Resource process: smoker with resource 0 is being served
+1713608019 Resource process: waiting for request
+1713608019 Resource process: producer process is about to deliver new resources
+1713608019 Resource process: new resources received
+1713608019 Resource process: waiting for request
+1713608020 Resource process: smoker with resource 2 requested resources
+1713608020 Resource process: smoker with resource 2 is being served
+1713608020 Resource process: waiting for request
+1713608020 Resource process: smoker with resource 0 requested resources
+1713608020 Resource process: smoker with resource 0 is being served
+1713608020 Resource process: waiting for request
+1713608021 Resource process: smoker with resource 1 requested resources
+1713608021 Resource process: smoker with resource 1 is being served
+1713608021 Resource process: waiting for request
+1713608021 Resource process: producer process is about to deliver new resources
+1713608021 Resource process: new resources received
+1713608021 Resource process: waiting for request
+1713608022 Resource process: smoker with resource 0 requested resources
+1713608022 Resource process: smoker with resource 0 is being served
+1713608022 Resource process: waiting for request
+1713608022 Resource process: smoker with resource 2 requested resources
+1713608022 Resource process: smoker with resource 2 is being served
+1713608022 Resource process: waiting for request
+1713608022 Resource process: smoker with resource 1 requested resources
+1713608022 Resource process: smoker with resource 1 is being served
+1713608022 Resource process: waiting for request
+1713608023 Resource process: smoker with resource 0 requested resources
+1713608023 Resource process: smoker with resource 0 is being served
+1713608023 Resource process: waiting for request
+1713608023 Resource process: smoker with resource 2 requested resources
+1713608023 Resource process: smoker with resource 2 is being served
+1713608023 Resource process: waiting for request
+1713608024 Resource process: producer process is about to deliver new resources
+1713608024 Resource process: new resources received
+1713608024 Resource process: waiting for request
+1713608024 Resource process: smoker with resource 0 requested resources
+1713608024 Resource process: smoker with resource 0 is being served
+1713608024 Resource process: waiting for request
+1713608024 Resource process: smoker with resource 1 requested resources
+1713608024 Resource process: smoker with resource 1 is being served
+1713608024 Resource process: waiting for request
+1713608024 Resource process: smoker with resource 2 requested resources
+1713608024 Resource process: smoker with resource 2 is being served
+1713608024 Resource process: waiting for request
+1713608025 Resource process: smoker with resource 0 requested resources
+1713608025 Resource process: smoker with resource 0 is being served
+1713608025 Resource process: waiting for request
+1713608026 Resource process: smoker with resource 2 requested resources
+1713608026 Resource process: smoker with resource 2 is being served
+1713608026 Resource process: waiting for request
+1713608026 Resource process: producer process is about to deliver new resources
+1713608026 Resource process: new resources received
+1713608026 Resource process: waiting for request
+1713608026 Resource process: smoker with resource 1 requested resources
+1713608026 Resource process: smoker with resource 1 is being served
+1713608026 Resource process: waiting for request
+1713608026 Resource process: smoker with resource 0 requested resources
+1713608026 Resource process: smoker with resource 0 is being served
+1713608026 Resource process: waiting for request
+1713608027 Resource process: smoker with resource 2 requested resources
+1713608027 Resource process: smoker with resource 2 is being served
+1713608027 Resource process: waiting for request
+1713608027 Resource process: smoker with resource 0 requested resources
+1713608027 Resource process: smoker with resource 0 is being served
+1713608027 Resource process: waiting for request
+1713608028 Resource process: smoker with resource 1 requested resources
+1713608028 Resource process: smoker with resource 1 is being served
+1713608028 Resource process: waiting for request
+1713608028 Resource process: producer process is about to deliver new resources
+1713608028 Resource process: new resources received
+1713608028 Resource process: waiting for request
+1713608029 Resource process: smoker with resource 2 requested resources
+1713608029 Resource process: smoker with resource 2 is being served
+1713608029 Resource process: waiting for request
+1713608029 Resource process: smoker with resource 0 requested resources
+1713608029 Resource process: smoker with resource 0 is being served
+1713608029 Resource process: waiting for request
+1713608030 Resource process: smoker with resource 1 requested resources
+1713608030 Resource process: smoker with resource 1 is being served
+1713608030 Resource process: waiting for request
+1713608030 Resource process: smoker with resource 0 requested resources
+1713608030 Resource process: smoker with resource 0 is being served
+1713608030 Resource process: waiting for request
+1713608030 Resource process: smoker with resource 2 requested resources
+1713608030 Resource process: smoker with resource 2 is being served
+1713608030 Resource process: waiting for request
+1713608030 Resource process: producer process is about to deliver new resources
+1713608030 Resource process: new resources received
+1713608030 Resource process: waiting for request
+1713608031 Resource process: smoker with resource 0 requested resources
+1713608031 Resource process: smoker with resource 0 is being served
+1713608031 Resource process: waiting for request
+1713608031 Resource process: smoker with resource 2 requested resources
+1713608031 Resource process: smoker with resource 2 is being served
+1713608031 Resource process: waiting for request
+1713608032 Resource process: smoker with resource 1 requested resources
+1713608032 Resource process: smoker with resource 1 is being served
+1713608032 Resource process: waiting for request
+1713608032 Resource process: smoker with resource 0 requested resources
+1713608032 Resource process: smoker with resource 0 is being served
+1713608032 Resource process: waiting for request
+1713608032 Resource process: producer process is about to deliver new resources
+1713608032 Resource process: new resources received
+1713608032 Resource process: waiting for request
+1713608033 Resource process: smoker with resource 2 requested resources
+1713608033 Resource process: smoker with resource 2 is being served
+1713608033 Resource process: waiting for request
+1713608033 Resource process: smoker with resource 0 requested resources
+1713608033 Resource process: smoker with resource 0 is being served
+1713608033 Resource process: waiting for request
+1713608033 Resource process: smoker with resource 1 requested resources
+1713608033 Resource process: smoker with resource 1 is being served
+1713608033 Resource process: waiting for request
+1713608034 Resource process: smoker with resource 2 requested resources
+1713608034 Resource process: smoker with resource 2 is being served
+1713608034 Resource process: waiting for request
+1713608034 Resource process: smoker with resource 0 requested resources
+1713608034 Resource process: smoker with resource 0 is being served
+1713608034 Resource process: waiting for request
+1713608035 Resource process: producer process is about to deliver new resources
+1713608035 Resource process: new resources received
+1713608035 Resource process: waiting for request
+1713608035 Resource process: smoker with resource 1 requested resources
+1713608035 Resource process: smoker with resource 1 is being served
+1713608035 Resource process: waiting for request
+1713608035 Resource process: smoker with resource 2 requested resources
+1713608035 Resource process: smoker with resource 2 is being served
+1713608035 Resource process: waiting for request
+1713608036 Resource process: smoker with resource 0 requested resources
+1713608036 Resource process: smoker with resource 0 is being served
+1713608036 Resource process: waiting for request
+1713608037 Resource process: smoker with resource 2 requested resources
+1713608037 Resource process: smoker with resource 2 is being served
+1713608037 Resource process: waiting for request
+1713608037 Resource process: smoker with resource 0 requested resources
+1713608037 Resource process: smoker with resource 0 is being served
+1713608037 Resource process: waiting for request
+1713608037 Resource process: producer process is about to deliver new resources
+1713608037 Resource process: new resources received
+1713608037 Resource process: waiting for request
+1713608037 Resource process: smoker with resource 1 requested resources
+1713608037 Resource process: smoker with resource 1 is being served
+1713608037 Resource process: waiting for request
+1713608038 Resource process: smoker with resource 0 requested resources
+1713608038 Resource process: smoker with resource 0 is being served
+1713608038 Resource process: waiting for request
+1713608038 Resource process: smoker with resource 2 requested resources
+1713608038 Resource process: smoker with resource 2 is being served
+1713608038 Resource process: waiting for request
+1713608039 Resource process: smoker with resource 1 requested resources
+1713608039 Resource process: smoker with resource 1 is being served
+1713608039 Resource process: waiting for request
+1713608039 Resource process: producer process is about to deliver new resources
+1713608039 Resource process: new resources received
+1713608039 Resource process: waiting for request
+1713608039 Resource process: smoker with resource 0 requested resources
+1713608039 Resource process: smoker with resource 0 is being served
+1713608039 Resource process: waiting for request
+1713608040 Resource process: smoker with resource 2 requested resources
+1713608040 Resource process: smoker with resource 2 is being served
+1713608040 Resource process: waiting for request
+1713608040 Resource process: smoker with resource 0 requested resources
+1713608040 Resource process: smoker with resource 0 is being served
+1713608040 Resource process: waiting for request
+1713608041 Resource process: smoker with resource 1 requested resources
+1713608041 Resource process: smoker with resource 1 is being served
+1713608041 Resource process: waiting for request
+1713608041 Resource process: smoker with resource 2 requested resources
+1713608041 Resource process: smoker with resource 2 is being served
+1713608041 Resource process: waiting for request
+1713608041 Resource process: producer process is about to deliver new resources
+1713608041 Resource process: new resources received
+1713608041 Resource process: waiting for request
+1713608042 Resource process: smoker with resource 0 requested resources
+1713608042 Resource process: smoker with resource 0 is being served
+1713608042 Resource process: waiting for request
+1713608042 Resource process: smoker with resource 2 requested resources
+1713608042 Resource process: smoker with resource 2 is being served
+1713608042 Resource process: waiting for request
+1713608042 Resource process: smoker with resource 1 requested resources
+1713608042 Resource process: smoker with resource 1 is being served
+1713608042 Resource process: waiting for request
+1713608043 Resource process: smoker with resource 0 requested resources
+1713608043 Resource process: smoker with resource 0 is being served
+1713608043 Resource process: waiting for request
+1713608043 Resource process: producer process is about to deliver new resources
+1713608043 Resource process: new resources received
+1713608043 Resource process: waiting for request
+1713608044 Resource process: smoker with resource 2 requested resources
+1713608044 Resource process: smoker with resource 2 is being served
+1713608044 Resource process: waiting for request
+1713608044 Resource process: smoker with resource 0 requested resources
+1713608044 Resource process: smoker with resource 0 is being served
+1713608044 Resource process: waiting for request
+1713608044 Resource process: smoker with resource 1 requested resources
+1713608044 Resource process: smoker with resource 1 is being served
+1713608044 Resource process: waiting for request
+1713608045 Resource process: smoker with resource 2 requested resources
+1713608045 Resource process: smoker with resource 2 is being served
+1713608045 Resource process: waiting for request
+1713608045 Resource process: smoker with resource 0 requested resources
+1713608045 Resource process: smoker with resource 0 is being served
+1713608045 Resource process: waiting for request
+1713608046 Resource process: producer process is about to deliver new resources
+1713608046 Resource process: new resources received
+1713608046 Resource process: waiting for request
+1713608046 Resource process: smoker with resource 1 requested resources
+1713608046 Resource process: smoker with resource 1 is being served
+1713608046 Resource process: waiting for request
+1713608046 Resource process: smoker with resource 0 requested resources
+1713608046 Resource process: smoker with resource 0 is being served
+1713608046 Resource process: waiting for request
+1713608046 Resource process: smoker with resource 2 requested resources
+1713608046 Resource process: smoker with resource 2 is being served
+1713608046 Resource process: waiting for request
+1713608047 Resource process: smoker with resource 0 requested resources
+1713608047 Resource process: smoker with resource 0 is being served
+1713608047 Resource process: waiting for request
+1713608048 Resource process: smoker with resource 2 requested resources
+1713608048 Resource process: smoker with resource 2 is being served
+1713608048 Resource process: waiting for request
+1713608048 Resource process: producer process is about to deliver new resources
+1713608048 Resource process: new resources received
+1713608048 Resource process: waiting for request
+1713608048 Resource process: smoker with resource 1 requested resources
+1713608048 Resource process: smoker with resource 1 is being served
+1713608048 Resource process: waiting for request
+1713608049 Resource process: smoker with resource 0 requested resources
+1713608049 Resource process: smoker with resource 0 is being served
+1713608049 Resource process: waiting for request
+1713608049 Resource process: smoker with resource 2 requested resources
+1713608049 Resource process: smoker with resource 2 is being served
+1713608049 Resource process: waiting for request
+1713608050 Resource process: smoker with resource 0 requested resources
+1713608050 Resource process: smoker with resource 0 is being served
+1713608050 Resource process: waiting for request
+1713608050 Resource process: smoker with resource 1 requested resources
+1713608050 Resource process: smoker with resource 1 is being served
+1713608050 Resource process: waiting for request
+1713608050 Resource process: producer process is about to deliver new resources
+1713608050 Resource process: new resources received
+1713608050 Resource process: waiting for request
+1713608051 Resource process: smoker with resource 2 requested resources
+1713608051 Resource process: smoker with resource 2 is being served
+1713608051 Resource process: waiting for request
+1713608051 Resource process: smoker with resource 0 requested resources
+1713608051 Resource process: smoker with resource 0 is being served
+1713608051 Resource process: waiting for request
+1713608052 Resource process: smoker with resource 1 requested resources
+1713608052 Resource process: smoker with resource 1 is being served
+1713608052 Resource process: waiting for request
+1713608052 Resource process: smoker with resource 2 requested resources
+1713608052 Resource process: smoker with resource 2 is being served
+1713608052 Resource process: waiting for request
+1713608052 Resource process: smoker with resource 0 requested resources
+1713608052 Resource process: smoker with resource 0 is being served
+1713608052 Resource process: waiting for request
+1713608052 Resource process: producer process is about to deliver new resources
+1713608052 Resource process: new resources received
+1713608052 Resource process: waiting for request
+1713608053 Resource process: smoker with resource 0 requested resources
+1713608053 Resource process: smoker with resource 0 is being served
+1713608053 Resource process: waiting for request
+1713608053 Resource process: smoker with resource 2 requested resources
+1713608053 Resource process: smoker with resource 2 is being served
+1713608053 Resource process: waiting for request
+1713608053 Resource process: smoker with resource 1 requested resources
+1713608053 Resource process: smoker with resource 1 is being served
+1713608053 Resource process: waiting for request
+1713608054 Resource process: smoker with resource 0 requested resources
+1713608054 Resource process: smoker with resource 0 is being served
+1713608054 Resource process: waiting for request
+1713608054 Resource process: producer process is about to deliver new resources
+1713608054 Resource process: new resources received
+1713608054 Resource process: waiting for request
+1713608055 Resource process: smoker with resource 2 requested resources
+1713608055 Resource process: smoker with resource 2 is being served
+1713608055 Resource process: waiting for request
+1713608055 Resource process: smoker with resource 1 requested resources
+1713608055 Resource process: smoker with resource 1 is being served
+1713608055 Resource process: waiting for request
+1713608056 Resource process: smoker with resource 0 requested resources
+1713608056 Resource process: smoker with resource 0 is being served
+1713608056 Resource process: waiting for request
+1713608056 Resource process: smoker with resource 2 requested resources
+1713608056 Resource process: smoker with resource 2 is being served
+1713608056 Resource process: waiting for request
+1713608057 Resource process: producer process is about to deliver new resources
+1713608057 Resource process: new resources received
+1713608057 Resource process: waiting for request
+1713608057 Resource process: smoker with resource 0 requested resources
+1713608057 Resource process: smoker with resource 0 is being served
+1713608057 Resource process: waiting for request
+1713608057 Resource process: smoker with resource 1 requested resources
+1713608057 Resource process: smoker with resource 1 is being served
+1713608057 Resource process: waiting for request
+1713608057 Resource process: smoker with resource 2 requested resources
+1713608057 Resource process: smoker with resource 2 is being served
+1713608057 Resource process: waiting for request
+1713608058 Resource process: smoker with resource 0 requested resources
+1713608058 Resource process: smoker with resource 0 is being served
+1713608058 Resource process: waiting for request
+1713608059 Resource process: smoker with resource 2 requested resources
+1713608059 Resource process: smoker with resource 2 is being served
+1713608059 Resource process: waiting for request
+1713608059 Resource process: producer process is about to deliver new resources
+1713608059 Resource process: new resources received
+1713608059 Resource process: waiting for request
+1713608059 Resource process: smoker with resource 1 requested resources
+1713608059 Resource process: smoker with resource 1 is being served
+1713608059 Resource process: waiting for request
+1713608059 Resource process: smoker with resource 0 requested resources
+1713608059 Resource process: smoker with resource 0 is being served
+1713608059 Resource process: waiting for request
+1713608060 Resource process: smoker with resource 2 requested resources
+1713608060 Resource process: smoker with resource 2 is being served
+1713608060 Resource process: waiting for request
+1713608060 Resource process: smoker with resource 0 requested resources
+1713608060 Resource process: smoker with resource 0 is being served
+1713608060 Resource process: waiting for request
+1713608061 Resource process: smoker with resource 1 requested resources
+1713608061 Resource process: smoker with resource 1 is being served
+1713608061 Resource process: waiting for request
+1713608061 Resource process: producer process is about to deliver new resources
+1713608061 Resource process: new resources received
+1713608061 Resource process: waiting for request
+1713608061 Resource process: smoker with resource 0 requested resources
+1713608061 Resource process: smoker with resource 0 is being served
+1713608061 Resource process: waiting for request
+1713608062 Resource process: smoker with resource 2 requested resources
+1713608062 Resource process: smoker with resource 2 is being served
+1713608062 Resource process: waiting for request
+1713608063 Resource process: smoker with resource 1 requested resources
+1713608063 Resource process: smoker with resource 1 is being served
+1713608063 Resource process: waiting for request
+1713608063 Resource process: smoker with resource 0 requested resources
+1713608063 Resource process: smoker with resource 0 is being served
+1713608063 Resource process: waiting for request
+1713608063 Resource process: smoker with resource 2 requested resources
+1713608063 Resource process: smoker with resource 2 is being served
+1713608063 Resource process: waiting for request
+1713608063 Resource process: producer process is about to deliver new resources
+1713608063 Resource process: new resources received
+1713608063 Resource process: waiting for request
+1713608064 Resource process: smoker with resource 0 requested resources
+1713608064 Resource process: smoker with resource 0 is being served
+1713608064 Resource process: waiting for request
+1713608064 Resource process: smoker with resource 2 requested resources
+1713608064 Resource process: smoker with resource 2 is being served
+1713608064 Resource process: waiting for request
+1713608064 Resource process: smoker with resource 1 requested resources
+1713608064 Resource process: smoker with resource 1 is being served
+1713608064 Resource process: waiting for request
+1713608065 Resource process: smoker with resource 0 requested resources
+1713608065 Resource process: smoker with resource 0 is being served
+1713608065 Resource process: waiting for request
+1713608065 Resource process: producer process is about to deliver new resources
+1713608065 Resource process: new resources received
+1713608065 Resource process: waiting for request
+1713608066 Resource process: smoker with resource 2 requested resources
+1713608066 Resource process: smoker with resource 2 is being served
+1713608066 Resource process: waiting for request
+1713608066 Resource process: smoker with resource 0 requested resources
+1713608066 Resource process: smoker with resource 0 is being served
+1713608066 Resource process: waiting for request
+1713608066 Resource process: smoker with resource 1 requested resources
+1713608066 Resource process: smoker with resource 1 is being served
+1713608066 Resource process: waiting for request
+1713608067 Resource process: smoker with resource 2 requested resources
+1713608067 Resource process: smoker with resource 2 is being served
+1713608067 Resource process: waiting for request
+1713608067 Resource process: smoker with resource 0 requested resources
+1713608067 Resource process: smoker with resource 0 is being served
+1713608067 Resource process: waiting for request
+1713608068 Resource process: producer process is about to deliver new resources
+1713608068 Resource process: new resources received
+1713608068 Resource process: waiting for request
+1713608068 Resource process: smoker with resource 1 requested resources
+1713608068 Resource process: smoker with resource 1 is being served
+1713608068 Resource process: waiting for request
+1713608068 Resource process: smoker with resource 2 requested resources
+1713608068 Resource process: smoker with resource 2 is being served
+1713608068 Resource process: waiting for request
+1713608069 Resource process: smoker with resource 0 requested resources
+1713608069 Resource process: smoker with resource 0 is being served
+1713608069 Resource process: waiting for request
+1713608070 Resource process: smoker with resource 0 requested resources
+1713608070 Resource process: smoker with resource 0 is being served
+1713608070 Resource process: waiting for request
+1713608070 Resource process: smoker with resource 2 requested resources
+1713608070 Resource process: smoker with resource 2 is being served
+1713608070 Resource process: waiting for request
+1713608070 Resource process: smoker with resource 1 requested resources
+1713608070 Resource process: smoker with resource 1 is being served
+1713608070 Resource process: waiting for request
+1713608070 Resource process: producer process is about to deliver new resources
+1713608070 Resource process: new resources received
+1713608070 Resource process: waiting for request
+1713608071 Resource process: smoker with resource 0 requested resources
+1713608071 Resource process: smoker with resource 0 is being served
+1713608071 Resource process: waiting for request
+1713608071 Resource process: smoker with resource 2 requested resources
+1713608071 Resource process: smoker with resource 2 is being served
+1713608071 Resource process: waiting for request
+1713608072 Resource process: smoker with resource 1 requested resources
+1713608072 Resource process: smoker with resource 1 is being served
+1713608072 Resource process: waiting for request

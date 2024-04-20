@@ -1,0 +1,132 @@
+1713606950 Producer process: initialization finished
+1713606950 Producer process: producing resources
+1713606952 Producer process: production finished, produced everything except 2
+1713606952 Producer process: sending request for rendezvous
+1713606952 Producer process: delivering produced resources
+1713606952 Producer process: delivery finished
+1713606952 Producer process: producing resources
+1713606954 Producer process: production finished, produced everything except 0
+1713606954 Producer process: sending request for rendezvous
+1713606954 Producer process: delivering produced resources
+1713606954 Producer process: delivery finished
+1713606954 Producer process: producing resources
+1713606956 Producer process: production finished, produced everything except 0
+1713606956 Producer process: sending request for rendezvous
+1713606956 Producer process: delivering produced resources
+1713606956 Producer process: delivery finished
+1713606956 Producer process: producing resources
+1713606958 Producer process: production finished, produced everything except 1
+1713606958 Producer process: sending request for rendezvous
+1713606958 Producer process: delivering produced resources
+1713606958 Producer process: delivery finished
+1713606958 Producer process: producing resources
+1713606960 Producer process: production finished, produced everything except 2
+1713606960 Producer process: sending request for rendezvous
+1713606960 Producer process: delivering produced resources
+1713606960 Producer process: delivery finished
+1713606960 Producer process: producing resources
+1713606962 Producer process: production finished, produced everything except 0
+1713606962 Producer process: sending request for rendezvous
+1713606962 Producer process: delivering produced resources
+1713606962 Producer process: delivery finished
+1713606962 Producer process: producing resources
+1713606965 Producer process: production finished, produced everything except 0
+1713606965 Producer process: sending request for rendezvous
+1713606965 Producer process: delivering produced resources
+1713606965 Producer process: delivery finished
+1713606965 Producer process: producing resources
+1713606967 Producer process: production finished, produced everything except 1
+1713606967 Producer process: sending request for rendezvous
+1713606967 Producer process: delivering produced resources
+1713606967 Producer process: delivery finished
+1713606967 Producer process: producing resources
+1713606969 Producer process: production finished, produced everything except 0
+1713606969 Producer process: sending request for rendezvous
+1713606969 Producer process: delivering produced resources
+1713606969 Producer process: delivery finished
+1713606969 Producer process: producing resources
+1713606971 Producer process: production finished, produced everything except 1
+1713606971 Producer process: sending request for rendezvous
+1713606971 Producer process: delivering produced resources
+1713606971 Producer process: delivery finished
+1713606971 Producer process: producing resources
+1713606973 Producer process: production finished, produced everything except 0
+1713606973 Producer process: sending request for rendezvous
+1713606973 Producer process: delivering produced resources
+1713606973 Producer process: delivery finished
+1713606973 Producer process: producing resources
+1713606975 Producer process: production finished, produced everything except 2
+1713606975 Producer process: sending request for rendezvous
+1713606975 Producer process: delivering produced resources
+1713606975 Producer process: delivery finished
+1713606975 Producer process: producing resources
+1713606977 Producer process: production finished, produced everything except 1
+1713606977 Producer process: sending request for rendezvous
+1713606977 Producer process: delivering produced resources
+1713606977 Producer process: delivery finished
+1713606977 Producer process: producing resources
+1713606979 Producer process: production finished, produced everything except 1
+1713606979 Producer process: sending request for rendezvous
+1713606979 Producer process: delivering produced resources
+1713606979 Producer process: delivery finished
+1713606979 Producer process: producing resources
+1713606981 Producer process: production finished, produced everything except 1
+1713606981 Producer process: sending request for rendezvous
+1713606981 Producer process: delivering produced resources
+1713606981 Producer process: delivery finished
+1713606981 Producer process: producing resources
+1713606983 Producer process: production finished, produced everything except 1
+1713606983 Producer process: sending request for rendezvous
+1713606983 Producer process: delivering produced resources
+1713606983 Producer process: delivery finished
+1713606983 Producer process: producing resources
+1713606985 Producer process: production finished, produced everything except 0
+1713606985 Producer process: sending request for rendezvous
+1713606985 Producer process: delivering produced resources
+1713606985 Producer process: delivery finished
+1713606985 Producer process: producing resources
+1713606987 Producer process: production finished, produced everything except 2
+1713606987 Producer process: sending request for rendezvous
+1713606987 Producer process: delivering produced resources
+1713606987 Producer process: delivery finished
+1713606987 Producer process: producing resources
+1713606989 Producer process: production finished, produced everything except 1
+1713606989 Producer process: sending request for rendezvous
+1713606989 Producer process: delivering produced resources
+1713606989 Producer process: delivery finished
+1713606989 Producer process: producing resources
+1713606991 Producer process: production finished, produced everything except 2
+1713606991 Producer process: sending request for rendezvous
+1713606991 Producer process: delivering produced resources
+1713606991 Producer process: delivery finished
+1713606991 Producer process: producing resources
+1713606993 Producer process: production finished, produced everything except 2
+1713606993 Producer process: sending request for rendezvous
+1713606993 Producer process: delivering produced resources
+1713606993 Producer process: delivery finished
+1713606993 Producer process: producing resources
+1713606996 Producer process: production finished, produced everything except 2
+1713606996 Producer process: sending request for rendezvous
+1713606996 Producer process: delivering produced resources
+1713606996 Producer process: delivery finished
+1713606996 Producer process: producing resources
+1713606998 Producer process: production finished, produced everything except 2
+1713606998 Producer process: sending request for rendezvous
+1713606998 Producer process: delivering produced resources
+1713606998 Producer process: delivery finished
+1713606998 Producer process: producing resources
+1713607000 Producer process: production finished, produced everything except 1
+1713607000 Producer process: sending request for rendezvous
+1713607000 Producer process: delivering produced resources
+1713607000 Producer process: delivery finished
+1713607000 Producer process: producing resources
+1713607002 Producer process: production finished, produced everything except 1
+1713607002 Producer process: sending request for rendezvous
+1713607002 Producer process: delivering produced resources
+1713607002 Producer process: delivery finished
+1713607002 Producer process: producing resources
+1713607004 Producer process: production finished, produced everything except 2
+1713607004 Producer process: sending request for rendezvous
+1713607004 Producer process: delivering produced resources
+1713607004 Producer process: delivery finished
+1713607004 Producer process: producing resources

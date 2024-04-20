@@ -1,0 +1,328 @@
+1713607260 Smoker with resource 1: initialization is complete
+1713607260 Smoker with resource 1: requesting resources
+1713607260 Smoker with resource 1: waiting for response
+1713607260 Smoker with resource 2: initialization is complete
+1713607260 Smoker with resource 2: requesting resources
+1713607260 Smoker with resource 2: waiting for response
+1713607260 Smoker with resource 0: initialization is complete
+1713607260 Smoker with resource 0: requesting resources
+1713607260 Smoker with resource 0: waiting for response
+1713607262 Smoker with resource 0: resources granted, starting smoking
+1713607265 Smoker with resource 0: finished smoking
+1713607265 Smoker with resource 0: requesting resources
+1713607265 Smoker with resource 0: waiting for response
+1713607267 Smoker with resource 0: resources granted, starting smoking
+1713607269 Smoker with resource 1: resources granted, starting smoking
+1713607270 Smoker with resource 0: finished smoking
+1713607270 Smoker with resource 0: requesting resources
+1713607270 Smoker with resource 0: waiting for response
+1713607271 Smoker with resource 2: resources granted, starting smoking
+1713607274 Smoker with resource 1: finished smoking
+1713607274 Smoker with resource 1: requesting resources
+1713607274 Smoker with resource 1: waiting for response
+1713607274 Smoker with resource 1: resources granted, starting smoking
+1713607275 Smoker with resource 2: finished smoking
+1713607275 Smoker with resource 2: requesting resources
+1713607275 Smoker with resource 2: waiting for response
+1713607276 Smoker with resource 0: resources granted, starting smoking
+1713607279 Smoker with resource 1: finished smoking
+1713607279 Smoker with resource 1: requesting resources
+1713607279 Smoker with resource 1: waiting for response
+1713607279 Smoker with resource 1: resources granted, starting smoking
+1713607279 Smoker with resource 0: finished smoking
+1713607279 Smoker with resource 0: requesting resources
+1713607279 Smoker with resource 0: waiting for response
+1713607281 Smoker with resource 2: resources granted, starting smoking
+1713607283 Smoker with resource 1: finished smoking
+1713607283 Smoker with resource 1: requesting resources
+1713607283 Smoker with resource 1: waiting for response
+1713607284 Smoker with resource 2: finished smoking
+1713607284 Smoker with resource 2: requesting resources
+1713607284 Smoker with resource 2: waiting for response
+1713607284 Smoker with resource 2: resources granted, starting smoking
+1713607285 Smoker with resource 0: resources granted, starting smoking
+1713607287 Smoker with resource 2: finished smoking
+1713607287 Smoker with resource 2: requesting resources
+1713607287 Smoker with resource 2: waiting for response
+1713607288 Smoker with resource 1: resources granted, starting smoking
+1713607288 Smoker with resource 2: resources granted, starting smoking
+1713607288 Smoker with resource 0: finished smoking
+1713607288 Smoker with resource 0: requesting resources
+1713607288 Smoker with resource 0: waiting for response
+1713607288 Smoker with resource 0: resources granted, starting smoking
+1713607291 Smoker with resource 0: finished smoking
+1713607291 Smoker with resource 0: requesting resources
+1713607291 Smoker with resource 0: waiting for response
+1713607291 Smoker with resource 0: resources granted, starting smoking
+1713607291 Smoker with resource 2: finished smoking
+1713607291 Smoker with resource 2: requesting resources
+1713607291 Smoker with resource 2: waiting for response
+1713607291 Smoker with resource 2: resources granted, starting smoking
+1713607292 Smoker with resource 1: finished smoking
+1713607292 Smoker with resource 1: requesting resources
+1713607292 Smoker with resource 1: waiting for response
+1713607292 Smoker with resource 1: resources granted, starting smoking
+1713607293 Smoker with resource 0: finished smoking
+1713607293 Smoker with resource 0: requesting resources
+1713607293 Smoker with resource 0: waiting for response
+1713607293 Smoker with resource 0: resources granted, starting smoking
+1713607294 Smoker with resource 2: finished smoking
+1713607294 Smoker with resource 2: requesting resources
+1713607294 Smoker with resource 2: waiting for response
+1713607294 Smoker with resource 2: resources granted, starting smoking
+1713607296 Smoker with resource 0: finished smoking
+1713607296 Smoker with resource 0: requesting resources
+1713607296 Smoker with resource 0: waiting for response
+1713607296 Smoker with resource 0: resources granted, starting smoking
+1713607297 Smoker with resource 1: finished smoking
+1713607297 Smoker with resource 1: requesting resources
+1713607297 Smoker with resource 1: waiting for response
+1713607297 Smoker with resource 1: resources granted, starting smoking
+1713607297 Smoker with resource 2: finished smoking
+1713607297 Smoker with resource 2: requesting resources
+1713607297 Smoker with resource 2: waiting for response
+1713607297 Smoker with resource 2: resources granted, starting smoking
+1713607299 Smoker with resource 0: finished smoking
+1713607299 Smoker with resource 0: requesting resources
+1713607299 Smoker with resource 0: waiting for response
+1713607299 Smoker with resource 0: resources granted, starting smoking
+1713607301 Smoker with resource 2: finished smoking
+1713607301 Smoker with resource 2: requesting resources
+1713607301 Smoker with resource 2: waiting for response
+1713607301 Smoker with resource 2: resources granted, starting smoking
+1713607302 Smoker with resource 0: finished smoking
+1713607302 Smoker with resource 0: requesting resources
+1713607302 Smoker with resource 0: waiting for response
+1713607302 Smoker with resource 0: resources granted, starting smoking
+1713607302 Smoker with resource 1: finished smoking
+1713607302 Smoker with resource 1: requesting resources
+1713607302 Smoker with resource 1: waiting for response
+1713607302 Smoker with resource 1: resources granted, starting smoking
+1713607304 Smoker with resource 2: finished smoking
+1713607304 Smoker with resource 2: requesting resources
+1713607304 Smoker with resource 2: waiting for response
+1713607304 Smoker with resource 2: resources granted, starting smoking
+1713607304 Smoker with resource 0: finished smoking
+1713607304 Smoker with resource 0: requesting resources
+1713607304 Smoker with resource 0: waiting for response
+1713607304 Smoker with resource 0: resources granted, starting smoking
+1713607306 Smoker with resource 1: finished smoking
+1713607306 Smoker with resource 1: requesting resources
+1713607306 Smoker with resource 1: waiting for response
+1713607306 Smoker with resource 1: resources granted, starting smoking
+1713607307 Smoker with resource 0: finished smoking
+1713607307 Smoker with resource 0: requesting resources
+1713607307 Smoker with resource 0: waiting for response
+1713607307 Smoker with resource 0: resources granted, starting smoking
+1713607307 Smoker with resource 2: finished smoking
+1713607307 Smoker with resource 2: requesting resources
+1713607307 Smoker with resource 2: waiting for response
+1713607307 Smoker with resource 2: resources granted, starting smoking
+1713607310 Smoker with resource 0: finished smoking
+1713607310 Smoker with resource 0: requesting resources
+1713607310 Smoker with resource 0: waiting for response
+1713607310 Smoker with resource 0: resources granted, starting smoking
+1713607310 Smoker with resource 2: finished smoking
+1713607310 Smoker with resource 2: requesting resources
+1713607310 Smoker with resource 2: waiting for response
+1713607310 Smoker with resource 2: resources granted, starting smoking
+1713607311 Smoker with resource 1: finished smoking
+1713607311 Smoker with resource 1: requesting resources
+1713607311 Smoker with resource 1: waiting for response
+1713607311 Smoker with resource 1: resources granted, starting smoking
+1713607312 Smoker with resource 0: finished smoking
+1713607312 Smoker with resource 0: requesting resources
+1713607312 Smoker with resource 0: waiting for response
+1713607312 Smoker with resource 0: resources granted, starting smoking
+1713607313 Smoker with resource 2: finished smoking
+1713607313 Smoker with resource 2: requesting resources
+1713607313 Smoker with resource 2: waiting for response
+1713607313 Smoker with resource 2: resources granted, starting smoking
+1713607315 Smoker with resource 0: finished smoking
+1713607315 Smoker with resource 0: requesting resources
+1713607315 Smoker with resource 0: waiting for response
+1713607315 Smoker with resource 0: resources granted, starting smoking
+1713607316 Smoker with resource 1: finished smoking
+1713607316 Smoker with resource 1: requesting resources
+1713607316 Smoker with resource 1: waiting for response
+1713607316 Smoker with resource 1: resources granted, starting smoking
+1713607317 Smoker with resource 2: finished smoking
+1713607317 Smoker with resource 2: requesting resources
+1713607317 Smoker with resource 2: waiting for response
+1713607317 Smoker with resource 2: resources granted, starting smoking
+1713607318 Smoker with resource 0: finished smoking
+1713607318 Smoker with resource 0: requesting resources
+1713607318 Smoker with resource 0: waiting for response
+1713607318 Smoker with resource 0: resources granted, starting smoking
+1713607320 Smoker with resource 2: finished smoking
+1713607320 Smoker with resource 2: requesting resources
+1713607320 Smoker with resource 2: waiting for response
+1713607320 Smoker with resource 2: resources granted, starting smoking
+1713607320 Smoker with resource 0: finished smoking
+1713607320 Smoker with resource 0: requesting resources
+1713607320 Smoker with resource 0: waiting for response
+1713607320 Smoker with resource 0: resources granted, starting smoking
+1713607321 Smoker with resource 1: finished smoking
+1713607321 Smoker with resource 1: requesting resources
+1713607321 Smoker with resource 1: waiting for response
+1713607321 Smoker with resource 1: resources granted, starting smoking
+1713607323 Smoker with resource 0: finished smoking
+1713607323 Smoker with resource 0: requesting resources
+1713607323 Smoker with resource 0: waiting for response
+1713607323 Smoker with resource 0: resources granted, starting smoking
+1713607323 Smoker with resource 2: finished smoking
+1713607323 Smoker with resource 2: requesting resources
+1713607323 Smoker with resource 2: waiting for response
+1713607323 Smoker with resource 2: resources granted, starting smoking
+1713607325 Smoker with resource 1: finished smoking
+1713607325 Smoker with resource 1: requesting resources
+1713607325 Smoker with resource 1: waiting for response
+1713607325 Smoker with resource 1: resources granted, starting smoking
+1713607326 Smoker with resource 0: finished smoking
+1713607326 Smoker with resource 0: requesting resources
+1713607326 Smoker with resource 0: waiting for response
+1713607326 Smoker with resource 0: resources granted, starting smoking
+1713607326 Smoker with resource 2: finished smoking
+1713607326 Smoker with resource 2: requesting resources
+1713607326 Smoker with resource 2: waiting for response
+1713607326 Smoker with resource 2: resources granted, starting smoking
+1713607329 Smoker with resource 0: finished smoking
+1713607329 Smoker with resource 0: requesting resources
+1713607329 Smoker with resource 0: waiting for response
+1713607329 Smoker with resource 0: resources granted, starting smoking
+1713607330 Smoker with resource 2: finished smoking
+1713607330 Smoker with resource 2: requesting resources
+1713607330 Smoker with resource 2: waiting for response
+1713607330 Smoker with resource 2: resources granted, starting smoking
+1713607330 Smoker with resource 1: finished smoking
+1713607330 Smoker with resource 1: requesting resources
+1713607330 Smoker with resource 1: waiting for response
+1713607330 Smoker with resource 1: resources granted, starting smoking
+1713607331 Smoker with resource 0: finished smoking
+1713607331 Smoker with resource 0: requesting resources
+1713607331 Smoker with resource 0: waiting for response
+1713607331 Smoker with resource 0: resources granted, starting smoking
+1713607333 Smoker with resource 2: finished smoking
+1713607333 Smoker with resource 2: requesting resources
+1713607333 Smoker with resource 2: waiting for response
+1713607333 Smoker with resource 2: resources granted, starting smoking
+1713607334 Smoker with resource 0: finished smoking
+1713607334 Smoker with resource 0: requesting resources
+1713607334 Smoker with resource 0: waiting for response
+1713607334 Smoker with resource 0: resources granted, starting smoking
+1713607335 Smoker with resource 1: finished smoking
+1713607335 Smoker with resource 1: requesting resources
+1713607335 Smoker with resource 1: waiting for response
+1713607335 Smoker with resource 1: resources granted, starting smoking
+1713607336 Smoker with resource 2: finished smoking
+1713607336 Smoker with resource 2: requesting resources
+1713607336 Smoker with resource 2: waiting for response
+1713607336 Smoker with resource 2: resources granted, starting smoking
+1713607337 Smoker with resource 0: finished smoking
+1713607337 Smoker with resource 0: requesting resources
+1713607337 Smoker with resource 0: waiting for response
+1713607337 Smoker with resource 0: resources granted, starting smoking
+1713607339 Smoker with resource 2: finished smoking
+1713607339 Smoker with resource 2: requesting resources
+1713607339 Smoker with resource 2: waiting for response
+1713607339 Smoker with resource 2: resources granted, starting smoking
+1713607339 Smoker with resource 1: finished smoking
+1713607339 Smoker with resource 1: requesting resources
+1713607339 Smoker with resource 1: waiting for response
+1713607339 Smoker with resource 1: resources granted, starting smoking
+1713607339 Smoker with resource 0: finished smoking
+1713607339 Smoker with resource 0: requesting resources
+1713607339 Smoker with resource 0: waiting for response
+1713607339 Smoker with resource 0: resources granted, starting smoking
+1713607342 Smoker with resource 0: finished smoking
+1713607342 Smoker with resource 0: requesting resources
+1713607342 Smoker with resource 0: waiting for response
+1713607342 Smoker with resource 0: resources granted, starting smoking
+1713607343 Smoker with resource 2: finished smoking
+1713607343 Smoker with resource 2: requesting resources
+1713607343 Smoker with resource 2: waiting for response
+1713607343 Smoker with resource 2: resources granted, starting smoking
+1713607344 Smoker with resource 1: finished smoking
+1713607344 Smoker with resource 1: requesting resources
+1713607344 Smoker with resource 1: waiting for response
+1713607344 Smoker with resource 1: resources granted, starting smoking
+1713607345 Smoker with resource 0: finished smoking
+1713607345 Smoker with resource 0: requesting resources
+1713607345 Smoker with resource 0: waiting for response
+1713607345 Smoker with resource 0: resources granted, starting smoking
+1713607346 Smoker with resource 2: finished smoking
+1713607346 Smoker with resource 2: requesting resources
+1713607346 Smoker with resource 2: waiting for response
+1713607346 Smoker with resource 2: resources granted, starting smoking
+1713607348 Smoker with resource 0: finished smoking
+1713607348 Smoker with resource 0: requesting resources
+1713607348 Smoker with resource 0: waiting for response
+1713607348 Smoker with resource 0: resources granted, starting smoking
+1713607349 Smoker with resource 1: finished smoking
+1713607349 Smoker with resource 1: requesting resources
+1713607349 Smoker with resource 1: waiting for response
+1713607349 Smoker with resource 1: resources granted, starting smoking
+1713607349 Smoker with resource 2: finished smoking
+1713607349 Smoker with resource 2: requesting resources
+1713607349 Smoker with resource 2: waiting for response
+1713607349 Smoker with resource 2: resources granted, starting smoking
+1713607350 Smoker with resource 0: finished smoking
+1713607350 Smoker with resource 0: requesting resources
+1713607350 Smoker with resource 0: waiting for response
+1713607350 Smoker with resource 0: resources granted, starting smoking
+1713607352 Smoker with resource 2: finished smoking
+1713607352 Smoker with resource 2: requesting resources
+1713607352 Smoker with resource 2: waiting for response
+1713607352 Smoker with resource 2: resources granted, starting smoking
+1713607353 Smoker with resource 0: finished smoking
+1713607353 Smoker with resource 0: requesting resources
+1713607353 Smoker with resource 0: waiting for response
+1713607353 Smoker with resource 0: resources granted, starting smoking
+1713607354 Smoker with resource 1: finished smoking
+1713607354 Smoker with resource 1: requesting resources
+1713607354 Smoker with resource 1: waiting for response
+1713607354 Smoker with resource 1: resources granted, starting smoking
+1713607356 Smoker with resource 2: finished smoking
+1713607356 Smoker with resource 2: requesting resources
+1713607356 Smoker with resource 2: waiting for response
+1713607356 Smoker with resource 2: resources granted, starting smoking
+1713607356 Smoker with resource 0: finished smoking
+1713607356 Smoker with resource 0: requesting resources
+1713607356 Smoker with resource 0: waiting for response
+1713607356 Smoker with resource 0: resources granted, starting smoking
+1713607358 Smoker with resource 1: finished smoking
+1713607358 Smoker with resource 1: requesting resources
+1713607358 Smoker with resource 1: waiting for response
+1713607358 Smoker with resource 1: resources granted, starting smoking
+1713607358 Smoker with resource 0: finished smoking
+1713607358 Smoker with resource 0: requesting resources
+1713607358 Smoker with resource 0: waiting for response
+1713607358 Smoker with resource 0: resources granted, starting smoking
+1713607359 Smoker with resource 2: finished smoking
+1713607359 Smoker with resource 2: requesting resources
+1713607359 Smoker with resource 2: waiting for response
+1713607359 Smoker with resource 2: resources granted, starting smoking
+1713607361 Smoker with resource 0: finished smoking
+1713607361 Smoker with resource 0: requesting resources
+1713607361 Smoker with resource 0: waiting for response
+1713607361 Smoker with resource 0: resources granted, starting smoking
+1713607362 Smoker with resource 2: finished smoking
+1713607362 Smoker with resource 2: requesting resources
+1713607362 Smoker with resource 2: waiting for response
+1713607362 Smoker with resource 2: resources granted, starting smoking
+1713607363 Smoker with resource 1: finished smoking
+1713607363 Smoker with resource 1: requesting resources
+1713607363 Smoker with resource 1: waiting for response
+1713607363 Smoker with resource 1: resources granted, starting smoking
+1713607364 Smoker with resource 0: finished smoking
+1713607364 Smoker with resource 0: requesting resources
+1713607364 Smoker with resource 0: waiting for response
+1713607364 Smoker with resource 0: resources granted, starting smoking
+1713607365 Smoker with resource 2: finished smoking
+1713607365 Smoker with resource 2: requesting resources
+1713607365 Smoker with resource 2: waiting for response
+1713607365 Smoker with resource 2: resources granted, starting smoking
+1713607366 Smoker with resource 0: finished smoking
+1713607366 Smoker with resource 0: requesting resources
+1713607366 Smoker with resource 0: waiting for response
+1713607366 Smoker with resource 0: resources granted, starting smoking

@@ -1,0 +1,802 @@
+Master process: awaiting registration, expected number of processes: 5
+Master process: initialization complete
+Master process: process 5752 registered, 4 remaining
+Master process: process 5771 registered, 1 remaining
+Master process: process 5772 registered, 2 remaining
+Master process: process 5773 registered, 3 remaining
+Master process: finished signaling, waiting for processes to finish
+Master process: process 5779 registered, 0 remaining
+Master process: registration complete, signaling for start
+Producer process: initialization finished
+Producer process: producing resources
+Resource process: initialization complete
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 1 requested resources
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: initialization is complete
+Smoker with resource 0: requesting resources
+Smoker with resource 0: waiting for response
+Smoker with resource 1: initialization is complete
+Smoker with resource 1: requesting resources
+Smoker with resource 1: waiting for response
+Smoker with resource 2: initialization is complete
+Smoker with resource 2: requesting resources
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 2 is being served
+Resource process: waiting for request
+Smoker with resource 2: resources granted, starting smoking
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: waiting for request
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 2 is being served
+Resource process: waiting for request
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 2: resources granted, starting smoking
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: waiting for request
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 0
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 1
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: waiting for request
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Producer process: delivering produced resources
+Producer process: delivery finished
+Producer process: producing resources
+Producer process: production finished, produced everything except 2
+Producer process: sending request for rendezvous
+Resource process: new resources received
+Resource process: producer process is about to deliver new resources
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Master process: process 5779 terminated
+Resource process: smoker with resource 0 is being served
+Resource process: smoker with resource 0 requested resources
+Resource process: smoker with resource 1 is being served
+Resource process: smoker with resource 1 requested resources
+Resource process: smoker with resource 2 is being served
+Resource process: smoker with resource 2 requested resources
+Resource process: waiting for request
+Resource process: waiting for request
+Resource process: waiting for request
+Smoker with resource 0: finished smoking
+Smoker with resource 0: requesting resources
+Smoker with resource 0: resources granted, starting smoking
+Smoker with resource 0: waiting for response
+Smoker with resource 1: finished smoking
+Smoker with resource 1: requesting resources
+Smoker with resource 1: resources granted, starting smoking
+Smoker with resource 1: waiting for response
+Smoker with resource 2: finished smoking
+Smoker with resource 2: requesting resources
+Smoker with resource 2: resources granted, starting smoking
+Smoker with resource 2: waiting for response
+Master process: process 5771 terminated
+Master process: process 5772 terminated
+Master process: process 5773 terminated
+Master process: all processes have finished, unlinking shared memory
+Master process: process 5752 terminated
